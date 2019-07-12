@@ -6,17 +6,20 @@ const researcher = new Schema({
     lastName: { type: 'String', required: true },
     orcidID: {type: 'String', required: false},
     scopusID: {type: 'String', required: false},
+    scopusEID: {type: 'String', required: false},
     dimensionsID: {type: 'String', required: false},
-
-    orcidID: {type: 'String', required: false},
-
-    publicationNumber: { type: 'Number', required: true, default: 0 },
-    citationCount: { type: 'Number', required: true, default: 0 },
-    hIndexScopus: { type: 'Number', required: true, default: 0 },
+    scoupsDocCount: { type: 'Number', required: true, default: 0 },
+    scopusCitationCount: { type: 'Number', required: true, default: 0 },
+    scopusHIndex: { type: 'Number', required: true, default: 0 },
+    scopusCoauthorCount: { type: 'Number', required: true, default: 0 },
     hIdex: { type: 'Number', required: true, default: 0 },
-    awards: { type: 'Number', required: true, default: 0 },
-    altmetricScore: { type: 'Number', required: true, default: 0 },
-    publicationNumber: { type: 'Number', required: true, default: 0 },
+    awards: { type: 'Number', required: false, default: 0 },
+    altmetricScore: { type: 'Number', required: false, default: 0 },
+    publicationRange: { 
+      start: {type: 'Number'}, 
+      end:{type:'Number'} 
+    },
+    scopusCitedByCount: { type: 'Number', required: true, default: 0 },
 
     departments: [{ type: String }],
 

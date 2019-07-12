@@ -1,12 +1,12 @@
 // client/src/App.js
 import React, { Component } from "react";
 // import NavBar from "./components/NavBar"
-import SideBar from "./components/SideBar"
+import Dashboard from "./components/dashboard/Dashboard"
 
 
 class App extends Component {
   render() {
-    return <SideBar></SideBar>
+    return <Dashboard></Dashboard>
   }
 }
 

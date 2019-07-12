@@ -1,0 +1,98 @@
+.block {
+    display: flex;
+    flex-direction: row;
+    background: white;
+    font-size: 1.1em;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+    width: 95%;
+    color: black;
+    background: white;
+    margin: 16px auto;
+    padding: 8px 16px;
+  }
+  
+  .rightBlock {
+    display: flex;
+    align-self: auto;
+    width: 33%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  .leftBlock {
+    display: flex;
+    width: 33%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .midBlock {
+    display: flex;
+    width: 33%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .vertical-line {
+    width: 1px;
+    height: 100px;
+    background: grey;
+    margin: 0 8px;
+  }
+  
+  .rName {
+    font-size: 1.5em;
+    color: #222;
+  }
+  
+  .IDValue {
+    font-size: .9em;
+    color: #555;
+  }
+  
+  .ID {
+    font-size: 1em;
+    font-weight: bold;
+  }
+  
+  .metricTitle {
+    font-size: 1.0em;
+    font-weight: bold;
+  }
+  .metric {
+    font-size: 1em;
+  }
+  
+  .blockTitle {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+
+  
+  .visible {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .green {
+    background: green;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .middleBP {
+      display: none;
+    }
+    .rightBP, .leftBP {
+      width: 50%;
+    }
+    .comments {
+      display: none;
+    }
+  }

@@ -1,16 +1,21 @@
+import express from 'express';
+import path from 'path';
 
-const mongoose = require('mongoose');
-const express = require('express');
+// Mongoose for database models and access.
+import mongoose from 'mongoose';
 var cors = require('cors');
 const bodyParser = require('body-parser');
 const logger = require('morgan');
-
 const API_PORT = 3001;
 const app = express();
 app.use(cors());
 const router = express.Router();
+const researchers = require('./routes/researchers');
+const departments = require('./routes/departments');
+
 
 // this is our MongoDB database
+//NEED TO MOVE THIS INTO AN ENVIRONMENT VARIABLE
 const dbRoute =
   'mongodb+srv://RIDashboard:RushRheesLibrary2019@ridashboard-cg1kq.mongodb.net/test?retryWrites=true&w=majority';
 
@@ -20,7 +25,7 @@ mongoose.connect(dbRoute, { useNewUrlParser: true });
 let db = mongoose.connection;
 
 db.once('open', () => console.log('connected to the database'));
-
+5
 // checks if connection with the database is successful
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
@@ -29,6 +34,9 @@ db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(logger('dev'));
+
+app.use('/api/researchers', researchers);
+app.use('/api/departments', departments);
 
 /*
 // this is our get method
@@ -83,8 +91,13 @@ router.post('/putData', (req, res) => {
 
 */
 
-// append /api for our http requests
-app.use('/api', router);
+
+// Catch all function, if route is not in form /api/ then
+// this function return the index page and allows the client to
+// handle the routing.
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/core/index.html'));
+});
 
 // launch our backend into a port
 app.listen(API_PORT, () => console.log(`LISTENING ON PORT ${API_PORT}`));
