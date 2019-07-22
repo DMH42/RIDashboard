@@ -12,6 +12,7 @@ app.use(cors());
 const router = express.Router();
 const researchers = require('./routes/researchers');
 const departments = require('./routes/departments');
+import APIs from './apiFunctions'
 
 
 // this is our MongoDB database
@@ -89,8 +90,10 @@ router.post('/putData', (req, res) => {
   });
 });
 
+
 */
 
+APIs.bootProcess();
 
 // Catch all function, if route is not in form /api/ then
 // this function return the index page and allows the client to

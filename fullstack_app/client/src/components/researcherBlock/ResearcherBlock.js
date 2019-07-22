@@ -33,7 +33,7 @@ export default class researcher extends Component {
                     <div><span className = "ID">Scopus ID: </span> 
                     <span className= "IDValue">{this.props.scopusID}</span></div>
                     <div><span className = "ID">Scopus EID: </span> 
-                    <span className= "IDValue">{this.props.scopusID}</span></div>
+                    <span className= "IDValue">{this.props.scopusEID}</span></div>
                     
 
 
@@ -44,12 +44,11 @@ export default class researcher extends Component {
                 <div className= "midBlock">
                 <span className= "blockTitle">Scopus Data</span>
                 <div>
-                    <div><span className = "metricTitle">Document Count: </span> 
-                    <span className = "metric">{this.props.scoupsDocCount}</span></div>
-
-                    <div><span className = "metricTitle">H-Index: </span> 
+                <div><span className = "metricTitle">H-Index: </span> 
                     <span className = "metric">{this.props.scopusHIndex}</span>
                     </div>
+                    <div><span className = "metricTitle">Document Count: </span> 
+                    <span className = "metric">{this.props.scoupsDocCount}</span></div>
                     <div><span className = "metricTitle">Citation by Count: </span> 
                      <span className = "metric">{this.props.scopusCitedByCount}</span></div>
 

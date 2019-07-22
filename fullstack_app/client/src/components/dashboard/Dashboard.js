@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import SideNav from "../sidenav/SideNav"
 import axios from 'axios'
-import ResearcherBlock from '../researcherBlock/ResearcherBlock'
+// import ResearcherBlock from '../researcherBlock/ResearcherBlock'
 import './Dashboard.css'
 import Department from '../department/Department'
+import Researcher from '../researcher/Researcher';
+import Journals from '../journals/Journals'
 
 class Dashboard extends Component {
   constructor(props) {
@@ -13,6 +15,7 @@ class Dashboard extends Component {
       loading: false,
       response: null,
       researchers: [],
+      selected: "Department"
     };
 
     this.onChange = this.onChange.bind(this);
@@ -20,6 +23,11 @@ class Dashboard extends Component {
 
 
 
+  }
+
+  onChangeSelected(newSelection){
+    this.setState({selected:newSelection});
+    // console.log(this.state.selected);
   }
   searchAndPost() {
     this.setState({ loading: true });
@@ -55,6 +63,8 @@ class Dashboard extends Component {
       })
   }
 
+
+
   componentDidMount() {
     this.getResearchers()
 
@@ -63,60 +73,21 @@ class Dashboard extends Component {
   render() {
     return (
 
-      <div className="container-fluid">
+      <div className="container-fluid ">
         <div className="row">
-          <SideNav></SideNav>
+          <SideNav changeSelected = {this.onChangeSelected.bind(this)} ></SideNav>
           <main role="main" className="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
-            {/* <div className="input-group mb-3 col-sm-3">
-              <div className="input-group-prepend">
-                <span className="input-group-text" id="basic-addon1">ID</span>
-              </div>
-              <input
-                type="text"
-                className="form-control"
-                name="ID"
-                onChange={this.onChange}
-                placeholder="Author ID"
-                aria-label="Username"
-                aria-describedby="basic-addon1"></input>
-              <button
-                disabled={!this.state.ID || this.state.loading === true}
-                className="btn btn-info"
-                type="button"
-                onClick={this.searchAndPost}
-              >
-                {this.state.loading ?
-                  (
-                    <span className="spinner-border spinner-border-sm text-dark" role="status" aria-hidden="true"></span>
-                  ) : (<div>Search</div>)}
-              </button>
-            </div> */}
+            
 
             {/* {this.state.response ? (<p>{JSON.stringify(this.state.response, null, "\t")}</p>) : (null)} */}
             
-
-            <Department></Department>
-            {/* <div id="researcherScroll">
-              {this.state.researchers.map(researcher => (
-                <ResearcherBlock
-                  key={researcher._id}
-                  firstName={researcher.firstName}
-                  lastName={researcher.lastName}
-                  scopusID={researcher.scopusID}
-                  scopusEID={researcher.scopusEID}
-                  scopusHIndex={researcher.scopusHIndex}
-                  scopusCoauthorCount={researcher.scopusCoauthorCount}
-                  scoupsDocCount={researcher.scoupsDocCount}
-                  scopusCitedByCount={researcher.scopusCitedByCount}
-                  scopusCitationCount={researcher.scopusCitationCount}
-                  publicationRStart={researcher.publicationRange.start}
-                  publicationREnd={researcher.publicationRange.end}
-
-                />
-              ))}
-            </div> */}
+            {this.state.selected === "Department" ? (<Department></Department>): (null) }
+            {this.state.selected === "Researcher Search" ? (<Researcher></Researcher>): (null) }
+            {this.state.selected === "Journals" ? (<Journals></Journals>): (null) }
 
 
+
+{/* 
             <h2>Title</h2>
             <div className="table-responsive">
               <table className="table table-striped table-sm">
@@ -244,7 +215,7 @@ class Dashboard extends Component {
                   </tr>
                 </tbody>
               </table>
-            </div>
+            </div> */}
 
           </main>
         </div>

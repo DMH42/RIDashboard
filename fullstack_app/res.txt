@@ -1,0 +1,1284 @@
+{"abstracts-retrieval-response": {"references": {
+    "reference": [
+        {
+            "scopus-eid": "2-s2.0-4644322158",
+            "scopus-id": "4644322158",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "1",
+            "sourcetitle": "Polarized Light",
+            "@id": "1",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "D.H.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "Goldstein",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "Goldstein D.H."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/4644322158"
+        },
+        {
+            "scopus-eid": "2-s2.0-85031325067",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "25",
+                    "@issue": "21"
+                },
+                "pagerange": {
+                    "@first": "25079",
+                    "@last": "25089"
+                }
+            },
+            "prism:coverDate": "2017-10-16",
+            "sourcetitle": "Optics Express",
+            "type": "resolvedReference",
+            "title": "Polarisation structuring of broadband light",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85031325067",
+            "citedby-count": "5",
+            "scopus-id": "85031325067",
+            "@id": "2",
+            "ce:doi": "10.1364/OE.25.025079",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Kevin J.",
+                    "preferred-name": {
+                        "ce:given-name": "Kevin J.",
+                        "ce:initials": "K.J.",
+                        "ce:surname": "Mitchell",
+                        "ce:indexed-name": "Mitchell K."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "K.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001490",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490"
+                    },
+                    "ce:surname": "Mitchell",
+                    "@auid": "56662729400",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56662729400",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mitchell K.J."
+                },
+                {
+                    "ce:given-name": "Neal",
+                    "preferred-name": {
+                        "ce:given-name": "Neal",
+                        "ce:initials": "N.",
+                        "ce:surname": "Radwell",
+                        "ce:indexed-name": "Radwell N."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "N.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001490",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490"
+                    },
+                    "ce:surname": "Radwell",
+                    "@auid": "25634820600",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/25634820600",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Radwell N."
+                },
+                {
+                    "ce:given-name": "Sonja",
+                    "preferred-name": {
+                        "ce:given-name": "Sonja",
+                        "ce:initials": "S.",
+                        "ce:surname": "Franke-Arnold",
+                        "ce:indexed-name": "Franke-Arnold S."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001490",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490"
+                    },
+                    "ce:surname": "Franke-Arnold",
+                    "@auid": "6603338540",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603338540",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Franke-Arnold S."
+                },
+                {
+                    "ce:given-name": "Miles J.",
+                    "preferred-name": {
+                        "ce:given-name": "Miles J.",
+                        "ce:initials": "M.J.",
+                        "ce:surname": "Padgett",
+                        "ce:indexed-name": "Padgett M."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "M.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001490",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490"
+                    },
+                    "ce:surname": "Padgett",
+                    "@auid": "7006967190",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006967190",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Padgett M.J."
+                },
+                {
+                    "ce:given-name": "David B.",
+                    "preferred-name": {
+                        "ce:given-name": "David B.",
+                        "ce:initials": "D.B.",
+                        "ce:surname": "Phillips",
+                        "ce:indexed-name": "Phillips D."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "D.B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001490",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001490"
+                    },
+                    "ce:surname": "Phillips",
+                    "@auid": "36787587500",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/36787587500",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Phillips D.B."
+                },
+                {
+                    "ce:given-name": "David B.",
+                    "preferred-name": {
+                        "ce:given-name": "David B.",
+                        "ce:initials": "D.B.",
+                        "ce:surname": "Phillips",
+                        "ce:indexed-name": "Phillips D."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "D.B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026479",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026479"
+                    },
+                    "ce:surname": "Phillips",
+                    "@auid": "36787587500",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/36787587500",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Phillips D.B."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-77951198080",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "46",
+                    "@issue": "8"
+                },
+                "pagerange": {
+                    "@first": "1191",
+                    "@last": "1196"
+                }
+            },
+            "prism:coverDate": "2010-04-27",
+            "sourcetitle": "IEEE Journal of Quantum Electronics",
+            "type": "resolvedReference",
+            "title": "Coherent polarization beam combination",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/77951198080",
+            "citedby-count": "68",
+            "scopus-id": "77951198080",
+            "@id": "3",
+            "article-number": "5446454",
+            "ce:doi": "10.1109/JQE.2010.2044976",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Radoslaw",
+                    "preferred-name": {
+                        "ce:given-name": "Radoslaw",
+                        "ce:initials": "R.",
+                        "ce:surname": "Uberna",
+                        "ce:indexed-name": "Uberna R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "114318144",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114318144"
+                    },
+                    "ce:surname": "Uberna",
+                    "@auid": "6505928442",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6505928442",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Uberna R."
+                },
+                {
+                    "ce:given-name": "Andrew",
+                    "preferred-name": {
+                        "ce:given-name": "Andrew",
+                        "ce:initials": "A.",
+                        "ce:surname": "Bratcher",
+                        "ce:indexed-name": "Bratcher A."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "114318144",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114318144"
+                    },
+                    "ce:surname": "Bratcher",
+                    "@auid": "35812015000",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/35812015000",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bratcher A."
+                },
+                {
+                    "ce:given-name": "Bruce G.",
+                    "preferred-name": {
+                        "ce:given-name": "Bruce G.",
+                        "ce:initials": "B.G.",
+                        "ce:surname": "Tiemann",
+                        "ce:indexed-name": "Tiemann B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "114318144",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/114318144"
+                    },
+                    "ce:surname": "Tiemann",
+                    "@auid": "57105138300",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57105138300",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Tiemann B.G."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-84975576388",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "5",
+                    "@issue": "9"
+                },
+                "pagerange": {
+                    "@first": "1962",
+                    "@last": "1979"
+                }
+            },
+            "prism:coverDate": "1988-01-01",
+            "sourcetitle": "Journal of the Optical Society of America B: Optical Physics",
+            "type": "resolvedReference",
+            "title": "Liquid-crystal laser optics: Design, fabrication, and performance",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/84975576388",
+            "citedby-count": "122",
+            "scopus-id": "84975576388",
+            "@id": "4",
+            "ce:doi": "10.1364/JOSAB.5.001962",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "S. D.",
+                        "ce:initials": "S.D.",
+                        "ce:surname": "Jacobs",
+                        "ce:indexed-name": "Jacobs S."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "S.D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Jacobs",
+                    "@auid": "7402313383",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402313383",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Jacobs S.D."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "K. A.",
+                        "ce:initials": "K.A.",
+                        "ce:surname": "Cerqua",
+                        "ce:indexed-name": "Cerqua K."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "K.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Cerqua",
+                    "@auid": "6505994768",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6505994768",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Cerqua K.A."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "K. L.",
+                        "ce:initials": "K.L.",
+                        "ce:surname": "Marshall",
+                        "ce:indexed-name": "Marshall K."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "K.L.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Marshall",
+                    "@auid": "7202663304",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7202663304",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Marshall K.L."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "A.",
+                        "ce:initials": "A.",
+                        "ce:surname": "Schmid",
+                        "ce:indexed-name": "Schmid A."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Schmid",
+                    "@auid": "7201845519",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7201845519",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Schmid A."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "M. J.",
+                        "ce:initials": "M.J.",
+                        "ce:surname": "Guardalben",
+                        "ce:indexed-name": "Guardalben M."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "M.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Guardalben",
+                    "@auid": "6603381233",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603381233",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Guardalben M.J."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "K. J.",
+                        "ce:initials": "K.J.",
+                        "ce:surname": "Skerrett",
+                        "ce:indexed-name": "Skerrett K."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "K.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Skerrett",
+                    "@auid": "57189877737",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57189877737",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Skerrett K.J."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-84942935249",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {"@volume": "76"},
+                "pagerange": {
+                    "@first": "59",
+                    "@last": "153"
+                }
+            },
+            "prism:coverDate": "2016-03-01",
+            "sourcetitle": "Progress in Materials Science",
+            "type": "resolvedReference",
+            "title": "Perspectives on oblique angle deposition of thin films: From fundamentals to devices",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/84942935249",
+            "citedby-count": "212",
+            "scopus-id": "84942935249",
+            "@id": "5",
+            "ce:doi": "10.1016/j.pmatsci.2015.06.003",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Angel",
+                    "preferred-name": {
+                        "ce:given-name": "Angel",
+                        "ce:initials": "A.",
+                        "ce:surname": "Barranco",
+                        "ce:indexed-name": "Barranco A."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029832",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029832"
+                    },
+                    "ce:surname": "Barranco",
+                    "@auid": "7003457801",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003457801",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Barranco A."
+                },
+                {
+                    "ce:given-name": "Ana",
+                    "preferred-name": {
+                        "ce:given-name": "Ana",
+                        "ce:initials": "A.",
+                        "ce:surname": "Borras",
+                        "ce:indexed-name": "Borras A."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029832",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029832"
+                    },
+                    "ce:surname": "Borras",
+                    "@auid": "24576439600",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/24576439600",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Borras A."
+                },
+                {
+                    "ce:given-name": "Agustin R.",
+                    "preferred-name": {
+                        "ce:given-name": "Agustin R.",
+                        "ce:initials": "A.R.",
+                        "ce:surname": "Gonzalez-Elipe",
+                        "ce:indexed-name": "Gonzalez-Elipe A."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "A.R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029832",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029832"
+                    },
+                    "ce:surname": "Gonzalez-Elipe",
+                    "@auid": "7005082074",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005082074",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Gonzalez-Elipe A.R."
+                },
+                {
+                    "ce:given-name": "Alberto",
+                    "preferred-name": {
+                        "ce:given-name": "Alberto",
+                        "ce:initials": "A.",
+                        "ce:surname": "Palmero",
+                        "ce:indexed-name": "Palmero A."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029832",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029832"
+                    },
+                    "ce:surname": "Palmero",
+                    "@auid": "55930192500",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/55930192500",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Palmero A."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0001519920",
+            "scopus-id": "0001519920",
+            "@_fa": "true",
+            "volisspag": {"voliss": {"@volume": "44"}},
+            "derivedSequence": "6",
+            "sourcetitle": "Bull. Chem. Soc. Jpn., Bull. Chem. Soc. Jpn.",
+            "@id": "6",
+            "type": "originalReference/other",
+            "title": "New Finding of Glassy Liquid Crystal - A Non-equilibrium State of Cholesteryl Hydrogen Phthalate",
+            "author-list": {"author": [
+                {
+                    "@seq": "1",
+                    "ce:initials": "K.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Tsuji",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Tsuji K."
+                },
+                {
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Sorai",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Sorai M."
+                },
+                {
+                    "@seq": "3",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Seki",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Seki S."
+                },
+                {
+                    "@seq": "4",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Sorai",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Sorai M."
+                },
+                {
+                    "@seq": "5",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Seki",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Seki S."
+                }
+            ]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0001519920"
+        },
+        {
+            "scopus-eid": "2-s2.0-0001049576",
+            "scopus-id": "0001049576",
+            "@_fa": "true",
+            "volisspag": {"voliss": {"@volume": "267"}},
+            "derivedSequence": "7",
+            "sourcetitle": "Science",
+            "@id": "7",
+            "type": "originalReference/other",
+            "title": "Through the Glass Lightly",
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "P.W.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "Anderson",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "Anderson P.W."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0001049576"
+        },
+        {
+            "scopus-eid": "2-s2.0-79952858710",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "44",
+                    "@issue": "3"
+                },
+                "pagerange": {
+                    "@first": "194",
+                    "@last": "203"
+                }
+            },
+            "prism:coverDate": "2011-03-15",
+            "sourcetitle": "Accounts of Chemical Research",
+            "type": "resolvedReference",
+            "title": "The descent into glass formation in polymer fluids",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/79952858710",
+            "citedby-count": "23",
+            "scopus-id": "79952858710",
+            "@id": "8",
+            "ce:doi": "10.1021/ar100122w",
+            "author-list": {"author": [{
+                "ce:given-name": "Karl F.",
+                "preferred-name": {
+                    "ce:given-name": "Karl F.",
+                    "ce:initials": "K.F.",
+                    "ce:surname": "Freed",
+                    "ce:indexed-name": "Freed K."
+                },
+                "@seq": "1",
+                "ce:initials": "K.F.",
+                "@_fa": "true",
+                "affiliation": {
+                    "@id": "60117872",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117872"
+                },
+                "ce:surname": "Freed",
+                "@auid": "7007141762",
+                "author-url": "https://api.elsevier.com/content/author/author_id/7007141762",
+                "@force-array": "true",
+                "ce:indexed-name": "Freed K.F."
+            }]}
+        },
+        {
+            "scopus-eid": "2-s2.0-85006271391",
+            "scopus-id": "85006271391",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "9",
+            "sourcetitle": "Nanoscience with Liquid Crystals",
+            "@id": "9",
+            "type": "originalReference/other",
+            "title": "Glassy Liquid Crystals as Self-Organized Films for Robust Optoelectronic Devices",
+            "author-list": {"author": [
+                {
+                    "@seq": "1",
+                    "ce:initials": "H.P.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Chen",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen H.P."
+                },
+                {
+                    "@seq": "2",
+                    "ce:initials": "J.J.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Ou",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Ou J.J."
+                },
+                {
+                    "@seq": "3",
+                    "ce:initials": "S.H.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Chen",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen S.H."
+                }
+            ]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85006271391"
+        },
+        {
+            "scopus-eid": "2-s2.0-0003943162",
+            "scopus-id": "0003943162",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "10",
+            "sourcetitle": "The Physics of Liquid Crystals",
+            "@id": "10",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "P.G.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "De Gennes",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "De Gennes P.G."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0003943162"
+        },
+        {
+            "scopus-eid": "2-s2.0-0030382555",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "8",
+                    "@issue": "12"
+                },
+                "pagerange": {
+                    "@first": "998",
+                    "@last": "1001"
+                }
+            },
+            "prism:coverDate": "1996-01-01",
+            "sourcetitle": "Advanced Materials",
+            "type": "resolvedReference",
+            "title": "Novel verifiable liquid crystals as optical materials",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0030382555",
+            "citedby-count": "60",
+            "scopus-id": "0030382555",
+            "@id": "11",
+            "ce:doi": "10.1002/adma.19960081212",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Shaw H.",
+                    "preferred-name": {
+                        "ce:given-name": "Shaw H.",
+                        "ce:initials": "S.H.",
+                        "ce:surname": "Chen",
+                        "ce:indexed-name": "Chen S."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "S.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Chen",
+                    "@auid": "56960692300",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56960692300",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen S.H."
+                },
+                {
+                    "ce:given-name": "Hongqin",
+                    "preferred-name": {
+                        "ce:given-name": "Hongqin",
+                        "ce:initials": "H.",
+                        "ce:surname": "Shi",
+                        "ce:indexed-name": "Shi H."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Shi",
+                    "@auid": "56284681100",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56284681100",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Shi H."
+                },
+                {
+                    "ce:given-name": "Brooke M.",
+                    "preferred-name": {
+                        "ce:given-name": "Brooke M.",
+                        "ce:initials": "B.M.",
+                        "ce:surname": "Conger",
+                        "ce:indexed-name": "Conger B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Conger",
+                    "@auid": "7003302005",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003302005",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Conger B.M."
+                },
+                {
+                    "ce:given-name": "John C.",
+                    "preferred-name": {
+                        "ce:given-name": "John C.",
+                        "ce:initials": "J.C.",
+                        "ce:surname": "Mastrangelo",
+                        "ce:indexed-name": "Mastrangelo J."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "J.C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Mastrangelo",
+                    "@auid": "6701550718",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701550718",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mastrangelo J.C."
+                },
+                {
+                    "ce:given-name": "Tersuo",
+                    "preferred-name": {
+                        "ce:given-name": "Tersuo",
+                        "ce:initials": "T.",
+                        "ce:surname": "Tsutsui",
+                        "ce:indexed-name": "Tsutsui T."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60011047",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011047"
+                    },
+                    "ce:surname": "Tsutsui",
+                    "@auid": "7202119359",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7202119359",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Tsutsui T."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0000546841",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "11",
+                    "@issue": "6"
+                },
+                "pagerange": {
+                    "@first": "1590",
+                    "@last": "1596"
+                }
+            },
+            "prism:coverDate": "1999-01-01",
+            "sourcetitle": "Chemistry of Materials",
+            "type": "resolvedReference",
+            "title": "Vitrified chiral-nematic liquid crystalline films for selective reflection and circular polarization",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0000546841",
+            "citedby-count": "38",
+            "scopus-id": "0000546841",
+            "@id": "12",
+            "ce:doi": "10.1021/cm9900397",
+            "author-list": {"author": [{
+                "ce:given-name": "Dimitris",
+                "preferred-name": {
+                    "ce:given-name": "Dimitris",
+                    "ce:initials": "D.",
+                    "ce:surname": "Katsis",
+                    "ce:indexed-name": "Katsis D."
+                },
+                "@seq": "1",
+                "ce:initials": "D.",
+                "@_fa": "true",
+                "affiliation": {
+                    "@id": "60027165",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                },
+                "ce:surname": "Katsis",
+                "@auid": "6701700515",
+                "author-url": "https://api.elsevier.com/content/author/author_id/6701700515",
+                "@force-array": "true",
+                "ce:indexed-name": "Katsis D."
+            }]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0034275550",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "12",
+                    "@issue": "17"
+                },
+                "pagerange": {
+                    "@first": "1283",
+                    "@last": "1286"
+                }
+            },
+            "prism:coverDate": "2000-09-01",
+            "sourcetitle": "Advanced Materials",
+            "type": "resolvedReference",
+            "title": "Glassy liquid-crystal films with opposite chirality as high-performance optical notch filters and reflectors",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0034275550",
+            "citedby-count": "65",
+            "scopus-id": "0034275550",
+            "@id": "13",
+            "ce:doi": "10.1002/1521-4095(200009)12:17<1283::AID-ADMA1283>3.0.CO;2-P",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "H. Philip",
+                    "preferred-name": {
+                        "ce:given-name": "H. Philip",
+                        "ce:initials": "H.P.",
+                        "ce:surname": "Chen",
+                        "ce:indexed-name": "Chen H."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "H.P.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Chen",
+                    "@auid": "57139767400",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57139767400",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen H.P."
+                },
+                {
+                    "ce:given-name": "Dimitris",
+                    "preferred-name": {
+                        "ce:given-name": "Dimitris",
+                        "ce:initials": "D.",
+                        "ce:surname": "Katsis",
+                        "ce:indexed-name": "Katsis D."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Katsis",
+                    "@auid": "6701700515",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701700515",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Katsis D."
+                },
+                {
+                    "ce:given-name": "John C.",
+                    "preferred-name": {
+                        "ce:given-name": "John C.",
+                        "ce:initials": "J.C.",
+                        "ce:surname": "Mastrangelo",
+                        "ce:indexed-name": "Mastrangelo J."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "J.C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Mastrangelo",
+                    "@auid": "6701550718",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701550718",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mastrangelo J.C."
+                },
+                {
+                    "ce:given-name": "Shaw H.",
+                    "preferred-name": {
+                        "ce:given-name": "Shaw H.",
+                        "ce:initials": "S.H.",
+                        "ce:surname": "Chen",
+                        "ce:indexed-name": "Chen S."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "S.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Chen",
+                    "@auid": "56960692300",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56960692300",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen S.H."
+                },
+                {
+                    "ce:given-name": "Stephen D.",
+                    "preferred-name": {
+                        "ce:given-name": "Stephen D.",
+                        "ce:initials": "S.D.",
+                        "ce:surname": "Jacobs",
+                        "ce:indexed-name": "Jacobs S."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "S.D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027165",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027165"
+                    },
+                    "ce:surname": "Jacobs",
+                    "@auid": "7402313383",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402313383",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Jacobs S.D."
+                },
+                {
+                    "ce:given-name": "Stephen D.",
+                    "preferred-name": {
+                        "ce:given-name": "Stephen D.",
+                        "ce:initials": "S.D.",
+                        "ce:surname": "Jacobs",
+                        "ce:indexed-name": "Jacobs S."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "S.D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007590",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007590"
+                    },
+                    "ce:surname": "Jacobs",
+                    "@auid": "7402313383",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402313383",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Jacobs S.D."
+                },
+                {
+                    "ce:given-name": "Patrick J.",
+                    "preferred-name": {
+                        "ce:given-name": "Patrick J.",
+                        "ce:initials": "P.J.",
+                        "ce:surname": "Hood",
+                        "ce:indexed-name": "Hood P."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "P.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60112762",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60112762"
+                    },
+                    "ce:surname": "Hood",
+                    "@auid": "7005858358",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005858358",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Hood P.J."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0035213580",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "11",
+                    "@issue": "11"
+                },
+                "pagerange": {
+                    "@first": "2814",
+                    "@last": "2831"
+                }
+            },
+            "prism:coverDate": "2001-01-01",
+            "sourcetitle": "Journal of Materials Chemistry",
+            "type": "resolvedReference",
+            "title": "Fullerene-containing liquid-crystalline dendrimers",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0035213580",
+            "citedby-count": "115",
+            "scopus-id": "0035213580",
+            "@id": "14",
+            "ce:doi": "10.1039/b103798f",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Blaise",
+                    "preferred-name": {
+                        "ce:given-name": "Blaise",
+                        "ce:initials": "B.",
+                        "ce:surname": "Dardel",
+                        "ce:indexed-name": "Dardel B."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60069920",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069920"
+                    },
+                    "ce:surname": "Dardel",
+                    "@auid": "22960402400",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/22960402400",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Dardel B."
+                },
+                {
+                    "ce:given-name": "Robert",
+                    "preferred-name": {
+                        "ce:given-name": "Robert",
+                        "ce:initials": "R.",
+                        "ce:surname": "Deschenaux",
+                        "ce:indexed-name": "Deschenaux R."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60069920",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60069920"
+                    },
+                    "ce:surname": "Deschenaux",
+                    "@auid": "7003563810",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003563810",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Deschenaux R."
+                },
+                {
+                    "ce:given-name": "Daniel",
+                    "preferred-name": {
+                        "ce:given-name": "Daniel",
+                        "ce:initials": "D.",
+                        "ce:surname": "Guillon",
+                        "ce:indexed-name": "Guillon D."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027156",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027156"
+                    },
+                    "ce:surname": "Guillon",
+                    "@auid": "22971540700",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/22971540700",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Guillon D."
+                },
+                {
+                    "ce:given-name": "Benoît",
+                    "preferred-name": {
+                        "ce:given-name": "Benoît",
+                        "ce:initials": "B.",
+                        "ce:surname": "Heinrich",
+                        "ce:indexed-name": "Heinrich B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60027156",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60027156"
+                    },
+                    "ce:surname": "Heinrich",
+                    "@auid": "7103000604",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7103000604",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Heinrich B."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-85040192439",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "6",
+                    "@issue": "1"
+                },
+                "pagerange": {
+                    "@first": "32",
+                    "@last": "48"
+                }
+            },
+            "prism:coverDate": "2018-01-02",
+            "sourcetitle": "ACS Sustainable Chemistry and Engineering",
+            "type": "resolvedReference",
+            "title": "Metrics of Green Chemistry and Sustainability: Past, Present, and Future",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85040192439",
+            "citedby-count": "56",
+            "scopus-id": "85040192439",
+            "@id": "15",
+            "ce:doi": "10.1021/acssuschemeng.7b03505",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Roger A.",
+                    "preferred-name": {
+                        "ce:given-name": "Roger A.",
+                        "ce:initials": "R.A.",
+                        "ce:surname": "Sheldon",
+                        "ce:indexed-name": "Sheldon R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60016218",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60016218"
+                    },
+                    "ce:surname": "Sheldon",
+                    "@auid": "57204935439",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57204935439",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Sheldon R.A."
+                },
+                {
+                    "ce:given-name": "Roger A.",
+                    "preferred-name": {
+                        "ce:given-name": "Roger A.",
+                        "ce:initials": "R.A.",
+                        "ce:surname": "Sheldon",
+                        "ce:indexed-name": "Sheldon R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60117992",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60117992"
+                    },
+                    "ce:surname": "Sheldon",
+                    "@auid": "57204935439",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57204935439",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Sheldon R.A."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-84946954126",
+            "scopus-id": "84946954126",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "16",
+            "sourcetitle": "Green Chemistry Metrics: A Guide to Determining and Evaluating Process Greenness",
+            "@id": "16",
+            "type": "originalReference/other",
+            "title": "Atom Economy and Reaction Mass Efficiency",
+            "author-list": {"author": [
+                {
+                    "@seq": "1",
+                    "ce:initials": "A.P.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Dicks",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Dicks A.P."
+                },
+                {
+                    "@seq": "2",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Hent",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Hent A."
+                }
+            ]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/84946954126"
+        }
+    ],
+    "@total-references": "16",
+    "link": [
+        {
+            "@_fa": "true",
+            "@type": "application/json",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/eid/2-s2.0-85044762880?startref=1&refcount=40&apiKey=6e851892e3e3a23dc0a6f73c72ca9080&view=REF"
+        },
+        {
+            "@_fa": "true",
+            "@type": "application/json",
+            "@ref": "first",
+            "@href": "https://api.elsevier.com/content/abstract/eid/2-s2.0-85044762880?startref=1&refcount=40&apiKey=6e851892e3e3a23dc0a6f73c72ca9080&view=REF"
+        }
+    ]
+}}}

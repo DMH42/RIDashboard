@@ -1,0 +1,2979 @@
+{"abstracts-retrieval-response": {"references": {
+    "reference": [
+        {
+            "scopus-eid": "2-s2.0-0032717048",
+            "pubmed-id": "10590300",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "1462",
+                    "@issue": "1-2"
+                },
+                "pagerange": {
+                    "@first": "11",
+                    "@last": "28"
+                }
+            },
+            "prism:coverDate": "1999-12-15",
+            "sourcetitle": "Biochimica et Biophysica Acta - Biomembranes",
+            "type": "resolvedReference",
+            "title": "Diversity of antimicrobial peptides and their mechanisms of action",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0032717048",
+            "citedby-count": "981",
+            "scopus-id": "0032717048",
+            "@id": "1",
+            "ce:doi": "10.1016/S0005-2736(99)00198-4",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Richard M.",
+                    "preferred-name": {
+                        "ce:given-name": "Richard M.",
+                        "ce:initials": "R.M.",
+                        "ce:surname": "Epand",
+                        "ce:indexed-name": "Epand R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60071027",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60071027"
+                    },
+                    "ce:surname": "Epand",
+                    "@auid": "56218520900",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56218520900",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Epand R.M."
+                },
+                {
+                    "ce:given-name": "Hans J.",
+                    "preferred-name": {
+                        "ce:given-name": "Hans J.",
+                        "ce:initials": "H.J.",
+                        "ce:surname": "Vogel",
+                        "ce:indexed-name": "Vogel H."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "H.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60002306",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60002306"
+                    },
+                    "ce:surname": "Vogel",
+                    "@auid": "35494797700",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/35494797700",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Vogel H.J."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0027328548",
+            "pubmed-id": "8210414",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "41",
+                    "@issue": "4"
+                },
+                "pagerange": {
+                    "@first": "473",
+                    "@last": "507"
+                }
+            },
+            "prism:coverDate": "1993-01-01",
+            "sourcetitle": "Progress in Neurobiology",
+            "type": "resolvedReference",
+            "title": "The toad, ugly and venomous, wears yet a precious jewel in his skin",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0027328548",
+            "citedby-count": "191",
+            "scopus-id": "0027328548",
+            "@id": "2",
+            "ce:doi": "10.1016/0301-0082(93)90027-P",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Lawrence H.",
+                    "preferred-name": {
+                        "ce:given-name": "Lawrence H.",
+                        "ce:initials": "L.H.",
+                        "ce:surname": "Lazarus",
+                        "ce:indexed-name": "Lazarus L."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "L.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60028652",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028652"
+                    },
+                    "ce:surname": "Lazarus",
+                    "@auid": "24574043900",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/24574043900",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Lazarus L.H."
+                },
+                {
+                    "ce:given-name": "Martti",
+                    "preferred-name": {
+                        "ce:given-name": "Martti",
+                        "ce:initials": "M.",
+                        "ce:surname": "Attila",
+                        "ce:indexed-name": "Attila M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60028652",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028652"
+                    },
+                    "ce:surname": "Attila",
+                    "@auid": "6603776462",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603776462",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Attila M."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0023100945",
+            "pubmed-id": "3606567",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "243",
+                    "@issue": "1"
+                },
+                "pagerange": {
+                    "@first": "113",
+                    "@last": "120"
+                }
+            },
+            "prism:coverDate": "1987-01-01",
+            "sourcetitle": "Biochemical Journal",
+            "type": "resolvedReference",
+            "title": "Biosynthesis and degradation of peptides derived from Xenopus laevis prohormones",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0023100945",
+            "citedby-count": "176",
+            "scopus-id": "0023100945",
+            "@id": "3",
+            "ce:doi": "10.1042/bj2430113",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "M. G.",
+                        "ce:initials": "M.G.",
+                        "ce:surname": "Giovannini",
+                        "ce:indexed-name": "Giovannini M."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "M.G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60031101",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101"
+                    },
+                    "ce:surname": "Giovannini",
+                    "@auid": "7201956424",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7201956424",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Giovannini M.G."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "L.",
+                        "ce:initials": "L.",
+                        "ce:surname": "Poulter",
+                        "ce:indexed-name": "Poulter L."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "L.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60031101",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101"
+                    },
+                    "ce:surname": "Poulter",
+                    "@auid": "7005429046",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005429046",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Poulter L."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "B. W.",
+                        "ce:initials": "B.W.",
+                        "ce:surname": "Gibson",
+                        "ce:indexed-name": "Gibson B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.W.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60031101",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101"
+                    },
+                    "ce:surname": "Gibson",
+                    "@auid": "7202975072",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7202975072",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Gibson B.W."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "D. H.",
+                        "ce:initials": "D.H.",
+                        "ce:surname": "Williams",
+                        "ce:indexed-name": "Williams D."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "D.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60031101",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101"
+                    },
+                    "ce:surname": "Williams",
+                    "@auid": "35517820900",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/35517820900",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Williams D.H."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0025860280",
+            "pubmed-id": "1708887",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "88",
+                    "@issue": "9"
+                },
+                "pagerange": {
+                    "@first": "3792",
+                    "@last": "3796"
+                }
+            },
+            "prism:coverDate": "1991-01-01",
+            "sourcetitle": "Proceedings of the National Academy of Sciences of the United States of America",
+            "type": "resolvedReference",
+            "title": "Antibiotic magainins exert cytolytic activity against transformed cell lines through channel formation",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0025860280",
+            "citedby-count": "330",
+            "scopus-id": "0025860280",
+            "@id": "4",
+            "ce:doi": "10.1073/pnas.88.9.3792",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Ricardo A.",
+                    "preferred-name": {
+                        "ce:given-name": "Ricardo A.",
+                        "ce:initials": "R.A.",
+                        "ce:surname": "Cruciani",
+                        "ce:indexed-name": "Cruciani R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006577",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006577"
+                    },
+                    "ce:surname": "Cruciani",
+                    "@auid": "57197059794",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57197059794",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Cruciani R.A."
+                },
+                {
+                    "ce:given-name": "Jeffery L.",
+                    "preferred-name": {
+                        "ce:given-name": "Jeffery L.",
+                        "ce:initials": "J.L.",
+                        "ce:surname": "Barker",
+                        "ce:indexed-name": "Barker J."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "J.L.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006577",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006577"
+                    },
+                    "ce:surname": "Barker",
+                    "@auid": "7401680864",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7401680864",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Barker J.L."
+                },
+                {
+                    "ce:given-name": "Hao-Chia",
+                    "preferred-name": {
+                        "ce:given-name": "Hao Chia",
+                        "ce:initials": "H.C.",
+                        "ce:surname": "Chen",
+                        "ce:indexed-name": "Chen H."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "H.-C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60017777",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017777"
+                    },
+                    "ce:surname": "Chen",
+                    "@auid": "7501614737",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7501614737",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chen H.-C."
+                },
+                {
+                    "ce:given-name": "Michael",
+                    "preferred-name": {
+                        "ce:given-name": "Michael",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60030118",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030118"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                },
+                {
+                    "ce:given-name": "Oscar",
+                    "preferred-name": {
+                        "ce:given-name": "Oscar",
+                        "ce:initials": "O.",
+                        "ce:surname": "Colamonici",
+                        "ce:indexed-name": "Colamonici O."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "O.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029278",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029278"
+                    },
+                    "ce:surname": "Colamonici",
+                    "@auid": "7006051904",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006051904",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Colamonici O."
+                },
+                {
+                    "ce:given-name": "Ricardo A.",
+                    "preferred-name": {
+                        "ce:given-name": "Ricardo A.",
+                        "ce:initials": "R.A.",
+                        "ce:surname": "Cruciani",
+                        "ce:indexed-name": "Cruciani R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006577",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006577"
+                    },
+                    "ce:surname": "Cruciani",
+                    "@auid": "57197059794",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57197059794",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Cruciani R.A."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0023875642",
+            "pubmed-id": "3338566",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "227",
+                    "@issue": "1"
+                },
+                "pagerange": {
+                    "@first": "21",
+                    "@last": "26"
+                }
+            },
+            "prism:coverDate": "1988-01-18",
+            "sourcetitle": "FEBS Letters",
+            "type": "resolvedReference",
+            "title": "A two-dimensional NMR study of the antimicrobial peptide magainin 2",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0023875642",
+            "citedby-count": "171",
+            "scopus-id": "0023875642",
+            "@id": "5",
+            "ce:doi": "10.1016/0014-5793(88)81405-4",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Dominique",
+                    "preferred-name": {
+                        "ce:given-name": "Dominique",
+                        "ce:initials": "D.",
+                        "ce:surname": "Marion",
+                        "ce:indexed-name": "Marion D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Marion",
+                    "@auid": "57192440904",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57192440904",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Marion D."
+                },
+                {
+                    "ce:given-name": "Ad",
+                    "preferred-name": {
+                        "ce:given-name": "Ad",
+                        "ce:initials": "A.",
+                        "ce:surname": "Bax",
+                        "ce:indexed-name": "Bax A."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Bax",
+                    "@auid": "7102779045",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102779045",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bax A."
+                },
+                {
+                    "ce:given-name": "Michael",
+                    "preferred-name": {
+                        "ce:given-name": "Michael",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60017777",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017777"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0031062621",
+            "pubmed-id": "9090128",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "9",
+                    "@issue": "2"
+                },
+                "pagerange": {
+                    "@first": "127",
+                    "@last": "135"
+                }
+            },
+            "prism:coverDate": "1997-01-01",
+            "sourcetitle": "Journal of Biomolecular NMR",
+            "type": "resolvedReference",
+            "title": "Two-dimensional 1H NMR experiments show that the 23-residue magainin antibiotic peptide is an α-helix in dodecylphosphocholine micelles, sodium dodecylsulfate micelles, and trifluoroethanol/water solution",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0031062621",
+            "citedby-count": "186",
+            "scopus-id": "0031062621",
+            "@id": "6",
+            "ce:doi": "10.1023/A:1018698002314",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Jennifer",
+                    "preferred-name": {
+                        "ce:given-name": "Jennifer",
+                        "ce:initials": "J.",
+                        "ce:surname": "Gesell",
+                        "ce:indexed-name": "Gesell J."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Gesell",
+                    "@auid": "6602594660",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6602594660",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Gesell J."
+                },
+                {
+                    "ce:given-name": "Stanley J.",
+                    "preferred-name": {
+                        "ce:given-name": "Stanley J.",
+                        "ce:initials": "S.J.",
+                        "ce:surname": "Opella",
+                        "ce:indexed-name": "Opella S."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "S.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Opella",
+                    "@auid": "7006533785",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006533785",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Opella S.J."
+                },
+                {
+                    "ce:given-name": "Michael",
+                    "preferred-name": {
+                        "ce:given-name": "Michael",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60000675",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000675"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0024438756",
+            "pubmed-id": "2481510",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "56",
+                    "@issue": "5"
+                },
+                "pagerange": {
+                    "@first": "1017",
+                    "@last": "1021"
+                }
+            },
+            "prism:coverDate": "1989-01-01",
+            "sourcetitle": "Biophysical Journal",
+            "type": "resolvedReference",
+            "title": "Antimicrobial peptide magainin I from Xenopus skin forms anion-permeable channels in planar lipid bilayers",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0024438756",
+            "citedby-count": "183",
+            "scopus-id": "0024438756",
+            "@id": "7",
+            "ce:doi": "10.1016/S0006-3495(89)82746-8",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "H.",
+                        "ce:initials": "H.",
+                        "ce:surname": "Duclohier",
+                        "ce:indexed-name": "Duclohier H."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60032922",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032922"
+                    },
+                    "ce:surname": "Duclohier",
+                    "@auid": "56617920900",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/56617920900",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Duclohier H."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "G.",
+                        "ce:initials": "G.",
+                        "ce:surname": "Molle",
+                        "ce:indexed-name": "Molle G."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60032922",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032922"
+                    },
+                    "ce:surname": "Molle",
+                    "@auid": "24515192600",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/24515192600",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Molle G."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "G.",
+                        "ce:initials": "G.",
+                        "ce:surname": "Spach",
+                        "ce:indexed-name": "Spach G."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60032922",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032922"
+                    },
+                    "ce:surname": "Spach",
+                    "@auid": "7003970692",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003970692",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Spach G."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0002560639",
+            "pubmed-id": "2671997",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "86",
+                    "@issue": "17"
+                },
+                "pagerange": {
+                    "@first": "6597",
+                    "@last": "6601"
+                }
+            },
+            "prism:coverDate": "1989-01-01",
+            "sourcetitle": "Proceedings of the National Academy of Sciences of the United States of America",
+            "type": "resolvedReference",
+            "title": "Magainins and the disruption of membrane-linked free-energy transduction",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0002560639",
+            "citedby-count": "234",
+            "scopus-id": "0002560639",
+            "@id": "8",
+            "ce:doi": "10.1073/pnas.86.17.6597",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "H. V.",
+                        "ce:initials": "H.V.",
+                        "ce:surname": "Westerhoff",
+                        "ce:indexed-name": "Westerhoff H."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "H.V.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Westerhoff",
+                    "@auid": "7101854663",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7101854663",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Westerhoff H.V."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "D.",
+                        "ce:initials": "D.",
+                        "ce:surname": "Juretic",
+                        "ce:indexed-name": "Juretic D."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Juretic",
+                    "@auid": "7004068889",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7004068889",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Juretic D."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "R. W.",
+                        "ce:initials": "R.W.",
+                        "ce:surname": "Hendler",
+                        "ce:indexed-name": "Hendler R."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "R.W.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Hendler",
+                    "@auid": "7005963708",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005963708",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Hendler R.W."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "M.",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008438",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008438"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0025372569",
+            "pubmed-id": "1693777",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "87",
+                    "@issue": "12"
+                },
+                "pagerange": {
+                    "@first": "4761",
+                    "@last": "4765"
+                }
+            },
+            "prism:coverDate": "1990-01-01",
+            "sourcetitle": "Proceedings of the National Academy of Sciences of the United States of America",
+            "type": "resolvedReference",
+            "title": "All-D amino acid-containing channel-forming antibiotic peptides",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0025372569",
+            "citedby-count": "587",
+            "scopus-id": "0025372569",
+            "@id": "9",
+            "ce:doi": "10.1073/pnas.87.12.4761",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "David",
+                    "preferred-name": {
+                        "ce:given-name": "David",
+                        "ce:initials": "D.",
+                        "ce:surname": "Wade",
+                        "ce:indexed-name": "Wade D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026827",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026827"
+                    },
+                    "ce:surname": "Wade",
+                    "@auid": "57201607765",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57201607765",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Wade D."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "C. M.",
+                        "ce:initials": "C.M.",
+                        "ce:surname": "Drain",
+                        "ce:indexed-name": "Drain C."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "C.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026827",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026827"
+                    },
+                    "ce:surname": "Drain",
+                    "@auid": "7004286154",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7004286154",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Drain C.M."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "R. B.",
+                        "ce:initials": "R.B.",
+                        "ce:surname": "Merrifield",
+                        "ce:indexed-name": "Merrifield R."
+                    },
+                    "@seq": "7",
+                    "ce:initials": "R.B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026827",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026827"
+                    },
+                    "ce:surname": "Merrifield",
+                    "@auid": "7006910565",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006910565",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Merrifield R.B."
+                },
+                {
+                    "ce:given-name": "Anita",
+                    "preferred-name": {
+                        "ce:given-name": "Anita",
+                        "ce:initials": "A.",
+                        "ce:surname": "Boman",
+                        "ce:indexed-name": "Boman A."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60028378",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028378"
+                    },
+                    "ce:surname": "Boman",
+                    "@auid": "7006704879",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006704879",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Boman A."
+                },
+                {
+                    "ce:given-name": "Birgitta",
+                    "preferred-name": {
+                        "ce:given-name": "Birgitta",
+                        "ce:initials": "B.",
+                        "ce:surname": "Wåhlin",
+                        "ce:indexed-name": "Wåhlin B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60028378",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028378"
+                    },
+                    "ce:surname": "Wåhlin",
+                    "@auid": "7004392806",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7004392806",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Wahlin B."
+                },
+                {
+                    "ce:given-name": "Hans G.",
+                    "preferred-name": {
+                        "ce:given-name": "Hans G.",
+                        "ce:initials": "H.G.",
+                        "ce:surname": "Boman",
+                        "ce:indexed-name": "Boman H."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "H.G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60028378",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60028378"
+                    },
+                    "ce:surname": "Boman",
+                    "@auid": "7007081755",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7007081755",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Boman H.G."
+                },
+                {
+                    "ce:given-name": "David",
+                    "preferred-name": {
+                        "ce:given-name": "David",
+                        "ce:initials": "D.",
+                        "ce:surname": "Andreu",
+                        "ce:indexed-name": "Andreu D."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60001576",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60001576"
+                    },
+                    "ce:surname": "Andreu",
+                    "@auid": "7006426091",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006426091",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Andreu D."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0032717886",
+            "pubmed-id": "10590302",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "1462",
+                    "@issue": "1-2"
+                },
+                "pagerange": {
+                    "@first": "55",
+                    "@last": "70"
+                }
+            },
+            "prism:coverDate": "1999-12-15",
+            "sourcetitle": "Biochimica et Biophysica Acta - Biomembranes",
+            "type": "resolvedReference",
+            "title": "Mechanism of the binding, insertion and destabilization of phospholipid bilayer membranes by α-helical antimicrobial and cell non-selective membrane-lytic peptides",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0032717886",
+            "citedby-count": "1356",
+            "scopus-id": "0032717886",
+            "@id": "10",
+            "ce:doi": "10.1016/S0005-2736(99)00200-X",
+            "author-list": {"author": [{
+                "ce:given-name": "Yechiel",
+                "preferred-name": {
+                    "ce:given-name": "Yechiel",
+                    "ce:initials": "Y.",
+                    "ce:surname": "Shai",
+                    "ce:indexed-name": "Shai Y."
+                },
+                "@seq": "1",
+                "ce:initials": "Y.",
+                "@_fa": "true",
+                "affiliation": {
+                    "@id": "60017563",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017563"
+                },
+                "ce:surname": "Shai",
+                "@auid": "7006584926",
+                "author-url": "https://api.elsevier.com/content/author/author_id/7006584926",
+                "@force-array": "true",
+                "ce:indexed-name": "Shai Y."
+            }]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0026969265",
+            "pubmed-id": "1463728",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "31",
+                    "@issue": "49"
+                },
+                "pagerange": {
+                    "@first": "12416",
+                    "@last": "12423"
+                }
+            },
+            "prism:coverDate": "1992-02-01",
+            "sourcetitle": "Biochemistry",
+            "type": "resolvedReference",
+            "title": "Interaction of Antimicrobial Dermaseptin and its Fluorescently Labeled Analogs with Phospholipid Membranes",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0026969265",
+            "citedby-count": "461",
+            "scopus-id": "0026969265",
+            "@id": "11",
+            "ce:doi": "10.1021/bi00164a017",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Yehonathan",
+                    "preferred-name": {
+                        "ce:given-name": "Yehonathan",
+                        "ce:initials": "Y.",
+                        "ce:surname": "Pouny",
+                        "ce:indexed-name": "Pouny Y."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "Y.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60017563",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017563"
+                    },
+                    "ce:surname": "Pouny",
+                    "@auid": "6508320798",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6508320798",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Pouny Y."
+                },
+                {
+                    "ce:given-name": "Doron",
+                    "preferred-name": {
+                        "ce:given-name": "Doron",
+                        "ce:initials": "D.",
+                        "ce:surname": "Rapaport",
+                        "ce:indexed-name": "Rapaport D."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60017563",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017563"
+                    },
+                    "ce:surname": "Rapaport",
+                    "@auid": "57189998203",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57189998203",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Rapaport D."
+                },
+                {
+                    "ce:given-name": "Yechiel",
+                    "preferred-name": {
+                        "ce:given-name": "Yechiel",
+                        "ce:initials": "Y.",
+                        "ce:surname": "Shai",
+                        "ce:indexed-name": "Shai Y."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "Y.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60017563",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60017563"
+                    },
+                    "ce:surname": "Shai",
+                    "@auid": "57189998159",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57189998159",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Shai Y."
+                },
+                {
+                    "ce:given-name": "Amram",
+                    "preferred-name": {
+                        "ce:given-name": "Amram",
+                        "ce:initials": "A.",
+                        "ce:surname": "Mor",
+                        "ce:indexed-name": "Mor A."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005370",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005370"
+                    },
+                    "ce:surname": "Mor",
+                    "@auid": "7005017362",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005017362",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mor A."
+                },
+                {
+                    "ce:given-name": "Pierre",
+                    "preferred-name": {
+                        "ce:given-name": "Pierre",
+                        "ce:initials": "P.",
+                        "ce:surname": "Nicolas",
+                        "ce:indexed-name": "Nicolas P."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "P.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005370",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005370"
+                    },
+                    "ce:surname": "Nicolas",
+                    "@auid": "16178019900",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/16178019900",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Nicolas P."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0026742166",
+            "pubmed-id": "1600092",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "62",
+                    "@issue": "1"
+                },
+                "pagerange": {
+                    "@first": "12",
+                    "@last": "14"
+                }
+            },
+            "prism:coverDate": "1992-01-01",
+            "sourcetitle": "Biophysical Journal",
+            "type": "resolvedReference",
+            "title": "Structure and interactions of magainin antibiotic peptides in lipid bilayers: a solid-state nuclear magnetic resonance investigation",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0026742166",
+            "citedby-count": "86",
+            "scopus-id": "0026742166",
+            "@id": "12",
+            "ce:doi": "10.1016/S0006-3495(92)81763-0",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "B.",
+                        "ce:initials": "B.",
+                        "ce:surname": "Bechinger",
+                        "ce:indexed-name": "Bechinger B."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Bechinger",
+                    "@auid": "7003583723",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003583723",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bechinger B."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "M.",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "S. J.",
+                        "ce:initials": "S.J.",
+                        "ce:surname": "Opella",
+                        "ce:indexed-name": "Opella S."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "S.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Opella",
+                    "@auid": "7006533785",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006533785",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Opella S.J."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0027488740",
+            "pubmed-id": "8298457",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "2",
+                    "@issue": "12"
+                },
+                "pagerange": {
+                    "@first": "2077",
+                    "@last": "2084"
+                }
+            },
+            "prism:coverDate": "1993-01-01",
+            "sourcetitle": "Protein Science",
+            "type": "resolvedReference",
+            "title": "Structure and orientation of the antibiotic peptide magainin in membranes by solid\u2010state nuclear magnetic resonance spectroscopy",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0027488740",
+            "citedby-count": "306",
+            "scopus-id": "0027488740",
+            "@id": "13",
+            "ce:doi": "10.1002/pro.5560021208",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Burkhard",
+                    "preferred-name": {
+                        "ce:given-name": "Burkhard",
+                        "ce:initials": "B.",
+                        "ce:surname": "Bechinger",
+                        "ce:indexed-name": "Bechinger B."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Bechinger",
+                    "@auid": "7003583723",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003583723",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bechinger B."
+                },
+                {
+                    "ce:given-name": "Michael",
+                    "preferred-name": {
+                        "ce:given-name": "Michael",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60030118",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60030118"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                },
+                {
+                    "ce:given-name": "Stanley J.",
+                    "preferred-name": {
+                        "ce:given-name": "Stanley J.",
+                        "ce:initials": "S.J.",
+                        "ce:surname": "Opella",
+                        "ce:indexed-name": "Opella S."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "S.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60006297",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60006297"
+                    },
+                    "ce:surname": "Opella",
+                    "@auid": "7006533785",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006533785",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Opella S.J."
+                },
+                {
+                    "ce:given-name": "Michael",
+                    "preferred-name": {
+                        "ce:given-name": "Michael",
+                        "ce:initials": "M.",
+                        "ce:surname": "Zasloff",
+                        "ce:indexed-name": "Zasloff M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60000675",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60000675"
+                    },
+                    "ce:surname": "Zasloff",
+                    "@auid": "7005664555",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005664555",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Zasloff M."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0025993413",
+            "pubmed-id": "1742459",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "60",
+                    "@issue": "4"
+                },
+                "pagerange": {
+                    "@first": "922",
+                    "@last": "930"
+                }
+            },
+            "prism:coverDate": "1991-01-01",
+            "sourcetitle": "Biophysical Journal",
+            "type": "resolvedReference",
+            "title": "Orientation of melittin in phospholipid bilayers. A polarized attenuated total reflection infrared study",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0025993413",
+            "citedby-count": "257",
+            "scopus-id": "0025993413",
+            "@id": "14",
+            "ce:doi": "10.1016/S0006-3495(91)82126-9",
+            "author-list": {"author": [
+                {
+                    "preferred-name": {
+                        "ce:given-name": "S.",
+                        "ce:initials": "S.",
+                        "ce:surname": "Frey",
+                        "ce:indexed-name": "Frey S."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60023588",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023588"
+                    },
+                    "ce:surname": "Frey",
+                    "@auid": "7102490566",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102490566",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Frey S."
+                },
+                {
+                    "preferred-name": {
+                        "ce:given-name": "L. K.",
+                        "ce:initials": "L.K.",
+                        "ce:surname": "Tamm",
+                        "ce:indexed-name": "Tamm L."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "L.K.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60023588",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023588"
+                    },
+                    "ce:surname": "Tamm",
+                    "@auid": "7005767850",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005767850",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Tamm L.K."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0032038181",
+            "pubmed-id": "9620615",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "4",
+                    "@issue": "2"
+                },
+                "pagerange": {
+                    "@first": "111",
+                    "@last": "115"
+                }
+            },
+            "prism:coverDate": "1998-01-01",
+            "sourcetitle": "Journal of Peptide Science",
+            "type": "resolvedReference",
+            "title": "The maculatin peptides from the skin glands of the tree frog Litoria genimaculata. A comparison of the structures and antibacterial activities of maculatin 1.1 and caerin 1.1",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0032038181",
+            "citedby-count": "62",
+            "scopus-id": "0032038181",
+            "@id": "15",
+            "ce:doi": "10.1002/(SICI)1099-1387(199804)4:2<111::AID-PSC134>3.0.CO;2-8",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Tomas",
+                    "preferred-name": {
+                        "ce:given-name": "Tomas",
+                        "ce:initials": "T.",
+                        "ce:surname": "Rozek",
+                        "ce:indexed-name": "Rozek T."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Rozek",
+                    "@auid": "6701845883",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701845883",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Rozek T."
+                },
+                {
+                    "ce:given-name": "Russell J.",
+                    "preferred-name": {
+                        "ce:given-name": "Russell J.",
+                        "ce:initials": "R.J.",
+                        "ce:surname": "Waugh",
+                        "ce:indexed-name": "Waugh R."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "R.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Waugh",
+                    "@auid": "7102648958",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102648958",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Waugh R.J."
+                },
+                {
+                    "ce:given-name": "Simon T.",
+                    "preferred-name": {
+                        "ce:given-name": "Simon T.",
+                        "ce:initials": "S.T.",
+                        "ce:surname": "Steinborner",
+                        "ce:indexed-name": "Steinborner S."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "S.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Steinborner",
+                    "@auid": "6603355758",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603355758",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Steinborner S.T."
+                },
+                {
+                    "ce:given-name": "John H.",
+                    "preferred-name": {
+                        "ce:given-name": "John H.",
+                        "ce:initials": "J.H.",
+                        "ce:surname": "Bowie",
+                        "ce:indexed-name": "Bowie J."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "J.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Bowie",
+                    "@auid": "7102792890",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102792890",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bowie J.H."
+                },
+                {
+                    "ce:given-name": "Michael J.",
+                    "preferred-name": {
+                        "ce:given-name": "Michael J.",
+                        "ce:initials": "M.J.",
+                        "ce:surname": "Tyler",
+                        "ce:indexed-name": "Tyler M."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "M.J.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Tyler",
+                    "@auid": "55030966700",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/55030966700",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Tyler M.J."
+                },
+                {
+                    "ce:given-name": "John C.",
+                    "preferred-name": {
+                        "ce:given-name": "John C.",
+                        "ce:initials": "J.C.",
+                        "ce:surname": "Wallace",
+                        "ce:indexed-name": "Wallace J."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "J.C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Wallace",
+                    "@auid": "7402961762",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402961762",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Wallace J.C."
+                },
+                {
+                    "ce:given-name": "John H.",
+                    "preferred-name": {
+                        "ce:given-name": "John H.",
+                        "ce:initials": "J.H.",
+                        "ce:surname": "Bowie",
+                        "ce:indexed-name": "Bowie J."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "J.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Bowie",
+                    "@auid": "7102792890",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102792890",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bowie J.H."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0034109713",
+            "pubmed-id": "10727928",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "267",
+                    "@issue": "7"
+                },
+                "pagerange": {
+                    "@first": "1894",
+                    "@last": "1908"
+                }
+            },
+            "prism:coverDate": "2000-04-14",
+            "sourcetitle": "European Journal of Biochemistry",
+            "type": "resolvedReference",
+            "title": "Maculatin 1.1, an anti-microbial peptide from the Australian tree frog, Litoria genimaculata. Solution structure and biological activity",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0034109713",
+            "citedby-count": "83",
+            "scopus-id": "0034109713",
+            "@id": "16",
+            "ce:doi": "10.1046/j.1432-1327.2000.01089.x",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Brian C. S.",
+                    "preferred-name": {
+                        "ce:given-name": "Brian C.S.",
+                        "ce:initials": "B.C.S.",
+                        "ce:surname": "Chia",
+                        "ce:indexed-name": "Chia B."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "B.C.S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Chia",
+                    "@auid": "7005674886",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005674886",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Chia B.C.S."
+                },
+                {
+                    "ce:given-name": "John H.",
+                    "preferred-name": {
+                        "ce:given-name": "John H.",
+                        "ce:initials": "J.H.",
+                        "ce:surname": "Bowie",
+                        "ce:indexed-name": "Bowie J."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "J.H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Bowie",
+                    "@auid": "7102792890",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102792890",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bowie J.H."
+                },
+                {
+                    "ce:given-name": "John A.",
+                    "preferred-name": {
+                        "ce:given-name": "John A.",
+                        "ce:initials": "J.A.",
+                        "ce:surname": "Carver",
+                        "ce:indexed-name": "Carver J."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "J.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60009512",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60009512"
+                    },
+                    "ce:surname": "Carver",
+                    "@auid": "7102839510",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102839510",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Carver J.A."
+                },
+                {
+                    "ce:given-name": "Terrence D.",
+                    "preferred-name": {
+                        "ce:given-name": "Terrence D.",
+                        "ce:initials": "T.D.",
+                        "ce:surname": "Mulhern",
+                        "ce:indexed-name": "Mulhern T."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "T.D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60011664",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011664"
+                    },
+                    "ce:surname": "Mulhern",
+                    "@auid": "7004001256",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7004001256",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mulhern T.D."
+                },
+                {
+                    "ce:given-name": "John A.",
+                    "preferred-name": {
+                        "ce:given-name": "John A.",
+                        "ce:initials": "J.A.",
+                        "ce:surname": "Carver",
+                        "ce:indexed-name": "Carver J."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "J.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60011664",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011664"
+                    },
+                    "ce:surname": "Carver",
+                    "@auid": "7102839510",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102839510",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Carver J.A."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0004003561",
+            "scopus-id": "0004003561",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "17",
+            "sourcetitle": "Biology of Microorganisms, 4th edn.",
+            "@id": "17",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "T.D.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "Brock",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "Brock T.D."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0004003561"
+        },
+        {
+            "scopus-eid": "2-s2.0-0001160765",
+            "scopus-id": "0001160765",
+            "@_fa": "true",
+            "volisspag": {"voliss": {"@volume": "1"}},
+            "derivedSequence": "18",
+            "sourcetitle": "Microbiol. Lipids",
+            "@id": "18",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [
+                {
+                    "@seq": "1",
+                    "ce:initials": "H.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Lechevalier",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Lechevalier H."
+                },
+                {
+                    "@seq": "2",
+                    "ce:initials": "M.P.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Lechevalier",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Lechevalier M.P."
+                }
+            ]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0001160765"
+        },
+        {
+            "scopus-eid": "2-s2.0-0026078046",
+            "pubmed-id": "1998698",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "1061",
+                    "@issue": "2"
+                },
+                "pagerange": {
+                    "@first": "297",
+                    "@last": "303"
+                }
+            },
+            "prism:coverDate": "1991-01-30",
+            "sourcetitle": "BBA - Biomembranes",
+            "type": "resolvedReference",
+            "title": "Small-volume extrusion apparatus for preparation of large, unilamellar vesicles",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0026078046",
+            "citedby-count": "1276",
+            "scopus-id": "0026078046",
+            "@id": "19",
+            "ce:doi": "10.1016/0005-2736(91)90295-J",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Robert C",
+                    "preferred-name": {
+                        "ce:given-name": "Robert C.",
+                        "ce:initials": "R.C.",
+                        "ce:surname": "MacDonald",
+                        "ce:indexed-name": "MacDonald R."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "R.C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "MacDonald",
+                    "@auid": "7402778302",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402778302",
+                    "@force-array": "true",
+                    "ce:indexed-name": "MacDonald R.C."
+                },
+                {
+                    "ce:given-name": "Ruby I",
+                    "preferred-name": {
+                        "ce:given-name": "Ruby I.",
+                        "ce:initials": "R.I.",
+                        "ce:surname": "MacDonald",
+                        "ce:indexed-name": "MacDonald R."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "R.I.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "MacDonald",
+                    "@auid": "7402777852",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402777852",
+                    "@force-array": "true",
+                    "ce:indexed-name": "MacDonald R.I."
+                },
+                {
+                    "ce:given-name": "Bert Ph.M",
+                    "preferred-name": {
+                        "ce:given-name": "Bert Ph M.",
+                        "ce:initials": "B.P.M.",
+                        "ce:surname": "Menco",
+                        "ce:indexed-name": "Menco B."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "B.Ph.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "Menco",
+                    "@auid": "7003443407",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003443407",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Menco B.Ph.M."
+                },
+                {
+                    "ce:given-name": "Keizo",
+                    "preferred-name": {
+                        "ce:given-name": "Keizo",
+                        "ce:initials": "K.",
+                        "ce:surname": "Takeshita",
+                        "ce:indexed-name": "Takeshita K."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "K.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "Takeshita",
+                    "@auid": "57197078719",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57197078719",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Takeshita K."
+                },
+                {
+                    "ce:given-name": "Nanda K",
+                    "preferred-name": {
+                        "ce:given-name": "Nanda K.",
+                        "ce:initials": "N.K.",
+                        "ce:surname": "Subbarao",
+                        "ce:indexed-name": "Subbarao N."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "N.K.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "Subbarao",
+                    "@auid": "6602268004",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6602268004",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Subbarao N.K."
+                },
+                {
+                    "ce:given-name": "Lan-rong",
+                    "preferred-name": {
+                        "ce:given-name": "Lan rong",
+                        "ce:initials": "L.r.",
+                        "ce:surname": "Hu",
+                        "ce:indexed-name": "Hu L."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "L.-r.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007363",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007363"
+                    },
+                    "ce:surname": "Hu",
+                    "@auid": "36751024700",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/36751024700",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Hu L.-r."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0000337013",
+            "scopus-id": "0000337013",
+            "@_fa": "true",
+            "volisspag": {"voliss": {"@volume": "35"}},
+            "derivedSequence": "20",
+            "sourcetitle": "Appl. Spectrosc.",
+            "@id": "20",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [
+                {
+                    "@seq": "1",
+                    "ce:initials": "J.K.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Kauppinen",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Kauppinen J.K."
+                },
+                {
+                    "@seq": "2",
+                    "ce:initials": "D.J.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Moffat",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Moffat D.J."
+                },
+                {
+                    "@seq": "3",
+                    "ce:initials": "H.M.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Mantsch",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Mantsch H.M."
+                },
+                {
+                    "@seq": "4",
+                    "ce:initials": "D.G.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Cameron",
+                    "author-url": null,
+                    "@force-array": "true",
+                    "ce:indexed-name": "Cameron D.G."
+                }
+            ]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0000337013"
+        },
+        {
+            "scopus-eid": "2-s2.0-0029999396",
+            "pubmed-id": "8679552",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "35",
+                    "@issue": "22"
+                },
+                "pagerange": {
+                    "@first": "7235",
+                    "@last": "7238"
+                }
+            },
+            "prism:coverDate": "1996-06-04",
+            "sourcetitle": "Biochemistry",
+            "type": "resolvedReference",
+            "title": "Determining the secondary structure and orientation of EmrE, a multi-drug transporter, indicates a transmembrane four-helix bundle",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0029999396",
+            "citedby-count": "98",
+            "scopus-id": "0029999396",
+            "@id": "21",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Isaiah T.",
+                    "preferred-name": {
+                        "ce:given-name": "Isaiah T.",
+                        "ce:initials": "I.T.",
+                        "ce:surname": "Arkin",
+                        "ce:indexed-name": "Arkin I."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "I.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Arkin",
+                    "@auid": "7003858738",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003858738",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Arkin I.T."
+                },
+                {
+                    "ce:given-name": "Isaiah T.",
+                    "preferred-name": {
+                        "ce:given-name": "Isaiah T.",
+                        "ce:initials": "I.T.",
+                        "ce:surname": "Arkin",
+                        "ce:indexed-name": "Arkin I."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "I.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Arkin",
+                    "@auid": "7003858738",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003858738",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Arkin I.T."
+                },
+                {
+                    "ce:given-name": "William P.",
+                    "preferred-name": {
+                        "ce:given-name": "William P.",
+                        "ce:initials": "W.P.",
+                        "ce:surname": "Russ",
+                        "ce:indexed-name": "Russ W."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "W.P.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Russ",
+                    "@auid": "7005207016",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005207016",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Russ W.P."
+                },
+                {
+                    "ce:given-name": "Mario",
+                    "preferred-name": {
+                        "ce:given-name": "Mario",
+                        "ce:initials": "M.",
+                        "ce:surname": "Lebendiker",
+                        "ce:indexed-name": "Lebendiker M."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007903",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007903"
+                    },
+                    "ce:surname": "Lebendiker",
+                    "@auid": "6603627984",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603627984",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Lebendiker M."
+                },
+                {
+                    "ce:given-name": "Shimon",
+                    "preferred-name": {
+                        "ce:given-name": "Shimon",
+                        "ce:initials": "S.",
+                        "ce:surname": "Schuldiner",
+                        "ce:indexed-name": "Schuldiner S."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007903",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007903"
+                    },
+                    "ce:surname": "Schuldiner",
+                    "@auid": "7006619776",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006619776",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Schuldiner S."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0003449930",
+            "scopus-id": "0003449930",
+            "@_fa": "true",
+            "volisspag": null,
+            "derivedSequence": "22",
+            "sourcetitle": "Internal Reflection Spectroscopy",
+            "@id": "22",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "N.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "Harrick",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "Harrick N."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0003449930"
+        },
+        {
+            "scopus-eid": "2-s2.0-0343092088",
+            "pubmed-id": "10777747",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "78",
+                    "@issue": "5"
+                },
+                "pagerange": {
+                    "@first": "2499",
+                    "@last": "2510"
+                }
+            },
+            "prism:coverDate": "2000-01-01",
+            "sourcetitle": "Biophysical Journal",
+            "type": "resolvedReference",
+            "title": "Orientation of the infrared transition moments for an α-helix",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0343092088",
+            "citedby-count": "109",
+            "scopus-id": "0343092088",
+            "@id": "23",
+            "ce:doi": "10.1016/S0006-3495(00)76795-6",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Derek",
+                    "preferred-name": {
+                        "ce:given-name": "Derek",
+                        "ce:initials": "D.",
+                        "ce:surname": "Marsh",
+                        "ce:indexed-name": "Marsh D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "100355367",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100355367"
+                    },
+                    "ce:surname": "Marsh",
+                    "@auid": "7402332316",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402332316",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Marsh D."
+                },
+                {
+                    "ce:given-name": "Martin",
+                    "preferred-name": {
+                        "ce:given-name": "Martin",
+                        "ce:initials": "M.",
+                        "ce:surname": "Müller",
+                        "ce:indexed-name": "Müller M."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Müller",
+                    "@auid": "25637263500",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/25637263500",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Muller M."
+                },
+                {
+                    "ce:given-name": "Franz-Josef",
+                    "preferred-name": {
+                        "ce:given-name": "Franz Josef",
+                        "ce:initials": "F.J.",
+                        "ce:surname": "Schmitt",
+                        "ce:indexed-name": "Schmitt F."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "F.-J.",
+                    "@_fa": "true",
+                    "affiliation": null,
+                    "ce:surname": "Schmitt",
+                    "@auid": "57194805909",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57194805909",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Schmitt F.-J."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0001242101",
+            "scopus-id": "0001242101",
+            "@_fa": "true",
+            "volisspag": {"voliss": {"@volume": "59"}},
+            "derivedSequence": "24",
+            "sourcetitle": "J. Polym. Sci.",
+            "@id": "24",
+            "type": "originalReference/other",
+            "title": null,
+            "author-list": {"author": [{
+                "@seq": "1",
+                "ce:initials": "M.",
+                "@_fa": "true",
+                "affiliation": null,
+                "ce:surname": "Tsuboi",
+                "author-url": null,
+                "@force-array": "true",
+                "ce:indexed-name": "Tsuboi M."
+            }]},
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0001242101"
+        },
+        {
+            "scopus-eid": "2-s2.0-0032734050",
+            "pubmed-id": "10545362",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "77",
+                    "@issue": "5"
+                },
+                "pagerange": {
+                    "@first": "2630",
+                    "@last": "2637"
+                }
+            },
+            "prism:coverDate": "1999-01-01",
+            "sourcetitle": "Biophysical Journal",
+            "type": "resolvedReference",
+            "title": "Quantitation of secondary structure in ATR infrared spectroscopy",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0032734050",
+            "citedby-count": "55",
+            "scopus-id": "0032734050",
+            "@id": "25",
+            "ce:doi": "10.1016/S0006-3495(99)77096-7",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Derek",
+                    "preferred-name": {
+                        "ce:given-name": "Derek",
+                        "ce:initials": "D.",
+                        "ce:surname": "Marsh",
+                        "ce:indexed-name": "Marsh D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60032895",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032895"
+                    },
+                    "ce:surname": "Marsh",
+                    "@auid": "7402332316",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402332316",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Marsh D."
+                },
+                {
+                    "ce:given-name": "Derek",
+                    "preferred-name": {
+                        "ce:given-name": "Derek",
+                        "ce:initials": "D.",
+                        "ce:surname": "Marsh",
+                        "ce:indexed-name": "Marsh D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "100363970",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/100363970"
+                    },
+                    "ce:surname": "Marsh",
+                    "@auid": "7402332316",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7402332316",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Marsh D."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0022691315",
+            "pubmed-id": "3697478",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "25",
+                    "@issue": "3"
+                },
+                "pagerange": {
+                    "@first": "469",
+                    "@last": "487"
+                }
+            },
+            "prism:coverDate": "1986-01-01",
+            "sourcetitle": "Biopolymers",
+            "type": "resolvedReference",
+            "title": "Examination of the secondary structure of proteins by deconvolved FTIR spectra",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0022691315",
+            "citedby-count": "2356",
+            "scopus-id": "0022691315",
+            "@id": "26",
+            "ce:doi": "10.1002/bip.360250307",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "D. Michael",
+                    "preferred-name": {
+                        "ce:given-name": "D. Michael",
+                        "ce:initials": "D.M.",
+                        "ce:surname": "Byler",
+                        "ce:indexed-name": "Byler D."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "D.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008528",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008528"
+                    },
+                    "ce:surname": "Byler",
+                    "@auid": "6701374628",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701374628",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Byler D.M."
+                },
+                {
+                    "ce:given-name": "Heino",
+                    "preferred-name": {
+                        "ce:given-name": "Heino",
+                        "ce:initials": "H.",
+                        "ce:surname": "Susi",
+                        "ce:indexed-name": "Susi H."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "H.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60008528",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60008528"
+                    },
+                    "ce:surname": "Susi",
+                    "@auid": "6701593491",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6701593491",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Susi H."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0030819982",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "119",
+                    "@issue": "38"
+                },
+                "pagerange": {
+                    "@first": "8973",
+                    "@last": "8980"
+                }
+            },
+            "prism:coverDate": "1997-09-24",
+            "sourcetitle": "Journal of the American Chemical Society",
+            "type": "resolvedReference",
+            "title": "Site-directed dichroism as a method for obtaining rotational and orientational constraints for oriented polymers",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0030819982",
+            "citedby-count": "65",
+            "scopus-id": "0030819982",
+            "@id": "27",
+            "ce:doi": "10.1021/ja964253x",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Isaiah T.",
+                    "preferred-name": {
+                        "ce:given-name": "Isaiah T.",
+                        "ce:initials": "I.T.",
+                        "ce:surname": "Arkin",
+                        "ce:indexed-name": "Arkin I."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "I.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60031101",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60031101"
+                    },
+                    "ce:surname": "Arkin",
+                    "@auid": "7003858738",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003858738",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Arkin I.T."
+                },
+                {
+                    "ce:given-name": "Isaiah T.",
+                    "preferred-name": {
+                        "ce:given-name": "Isaiah T.",
+                        "ce:initials": "I.T.",
+                        "ce:surname": "Arkin",
+                        "ce:indexed-name": "Arkin I."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "I.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Arkin",
+                    "@auid": "7003858738",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003858738",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Arkin I.T."
+                },
+                {
+                    "ce:given-name": "Kevin R.",
+                    "preferred-name": {
+                        "ce:given-name": "Kevin R.",
+                        "ce:initials": "K.R.",
+                        "ce:surname": "MacKenzie",
+                        "ce:indexed-name": "MacKenzie K."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "K.R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "MacKenzie",
+                    "@auid": "7202720634",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7202720634",
+                    "@force-array": "true",
+                    "ce:indexed-name": "MacKenzie K.R."
+                },
+                {
+                    "ce:given-name": "Axel T.",
+                    "preferred-name": {
+                        "ce:given-name": "Axel T.",
+                        "ce:initials": "A.T.",
+                        "ce:surname": "Brünger",
+                        "ce:indexed-name": "Brünger A."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "A.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Brünger",
+                    "@auid": "7103319400",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7103319400",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Brunger A.T."
+                },
+                {
+                    "ce:given-name": "Isaiah T.",
+                    "preferred-name": {
+                        "ce:given-name": "Isaiah T.",
+                        "ce:initials": "I.T.",
+                        "ce:surname": "Arkin",
+                        "ce:indexed-name": "Arkin I."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "I.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Arkin",
+                    "@auid": "7003858738",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7003858738",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Arkin I.T."
+                },
+                {
+                    "ce:given-name": "Axel T.",
+                    "preferred-name": {
+                        "ce:given-name": "Axel T.",
+                        "ce:initials": "A.T.",
+                        "ce:surname": "Brünger",
+                        "ce:indexed-name": "Brünger A."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "A.T.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005455",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005455"
+                    },
+                    "ce:surname": "Brünger",
+                    "@auid": "7103319400",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7103319400",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Brunger A.T."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0026101392",
+            "pubmed-id": "2015901",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "281",
+                    "@issue": "1-2"
+                },
+                "pagerange": {
+                    "@first": "240",
+                    "@last": "244"
+                }
+            },
+            "prism:coverDate": "1991-04-09",
+            "sourcetitle": "FEBS Letters",
+            "type": "resolvedReference",
+            "title": "Contribution of proline-14 to the structure and actions of melittin",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0026101392",
+            "citedby-count": "83",
+            "scopus-id": "0026101392",
+            "@id": "28",
+            "ce:doi": "10.1016/0014-5793(91)80402-O",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Christopher E.",
+                    "preferred-name": {
+                        "ce:given-name": "Christopher E.",
+                        "ce:initials": "C.E.",
+                        "ce:surname": "Dempsey",
+                        "ce:indexed-name": "Dempsey C."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "C.E.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026851",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851"
+                    },
+                    "ce:surname": "Dempsey",
+                    "@auid": "7005337701",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005337701",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Dempsey C.E."
+                },
+                {
+                    "ce:given-name": "Renzo",
+                    "preferred-name": {
+                        "ce:given-name": "Renzo",
+                        "ce:initials": "R.",
+                        "ce:surname": "Bazzo",
+                        "ce:indexed-name": "Bazzo R."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026851",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851"
+                    },
+                    "ce:surname": "Bazzo",
+                    "@auid": "57204958285",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57204958285",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Bazzo R."
+                },
+                {
+                    "ce:given-name": "Timothy S.",
+                    "preferred-name": {
+                        "ce:given-name": "Timothy S.",
+                        "ce:initials": "T.S.",
+                        "ce:surname": "Harvey",
+                        "ce:indexed-name": "Harvey T."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "T.S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026851",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851"
+                    },
+                    "ce:surname": "Harvey",
+                    "@auid": "7102898635",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7102898635",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Harvey T.S."
+                },
+                {
+                    "ce:given-name": "Iain D.",
+                    "preferred-name": {
+                        "ce:given-name": "Iain D.",
+                        "ce:initials": "I.D.",
+                        "ce:surname": "Campbell",
+                        "ce:indexed-name": "Campbell I."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "I.D.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026851",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851"
+                    },
+                    "ce:surname": "Campbell",
+                    "@auid": "7401749391",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7401749391",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Campbell I.D."
+                },
+                {
+                    "ce:given-name": "Inge",
+                    "preferred-name": {
+                        "ce:given-name": "Inge",
+                        "ce:initials": "I.",
+                        "ce:surname": "Syperek",
+                        "ce:indexed-name": "Syperek I."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "I.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005322",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005322"
+                    },
+                    "ce:surname": "Syperek",
+                    "@auid": "6505643663",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6505643663",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Syperek I."
+                },
+                {
+                    "ce:given-name": "Gunther",
+                    "preferred-name": {
+                        "ce:given-name": "Gunther",
+                        "ce:initials": "G.",
+                        "ce:surname": "Boheim",
+                        "ce:indexed-name": "Boheim G."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60005322",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60005322"
+                    },
+                    "ce:surname": "Boheim",
+                    "@auid": "6603963478",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603963478",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Boheim G."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0026079128",
+            "pubmed-id": "1998691",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "1061",
+                    "@issue": "2"
+                },
+                "pagerange": {
+                    "@first": "175",
+                    "@last": "184"
+                }
+            },
+            "prism:coverDate": "1991-01-30",
+            "sourcetitle": "BBA - Biomembranes",
+            "type": "resolvedReference",
+            "title": "Reversible disc-micellization of dimyristoylphosphatidylcholine bilayers induced by melittin and [Ala-14]melittin",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0026079128",
+            "citedby-count": "39",
+            "scopus-id": "0026079128",
+            "@id": "29",
+            "ce:doi": "10.1016/0005-2736(91)90283-E",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Christopher E.",
+                    "preferred-name": {
+                        "ce:given-name": "Christopher E.",
+                        "ce:initials": "C.E.",
+                        "ce:surname": "Dempsey",
+                        "ce:indexed-name": "Dempsey C."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "C.E.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60026851",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851"
+                    },
+                    "ce:surname": "Dempsey",
+                    "@auid": "7005337701",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005337701",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Dempsey C.E."
+                },
+                {
+                    "ce:given-name": "Brigitte",
+                    "preferred-name": {
+                        "ce:given-name": "Brigitte",
+                        "ce:initials": "B.",
+                        "ce:surname": "Sternberg",
+                        "ce:indexed-name": "Sternberg B."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "B.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60029507",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60029507"
+                    },
+                    "ce:surname": "Sternberg",
+                    "@auid": "7005725240",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7005725240",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Sternberg B."
+                }
+            ]}
+        },
+        {
+            "scopus-eid": "2-s2.0-0035954729",
+            "pubmed-id": "11473322",
+            "@_fa": "true",
+            "volisspag": {
+                "voliss": {
+                    "@volume": "412",
+                    "@issue": "6845"
+                },
+                "pagerange": {
+                    "@first": "452",
+                    "@last": "455"
+                }
+            },
+            "prism:coverDate": "2001-07-26",
+            "sourcetitle": "Nature",
+            "type": "resolvedReference",
+            "title": "Antibacterial agents based on the cyclic D, L-α-peptide architecture",
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/0035954729",
+            "citedby-count": "715",
+            "scopus-id": "0035954729",
+            "@id": "30",
+            "ce:doi": "10.1038/35086601",
+            "author-list": {"author": [
+                {
+                    "ce:given-name": "Sara",
+                    "preferred-name": {
+                        "ce:given-name": "Sara",
+                        "ce:initials": "S.",
+                        "ce:surname": "Fernandez-Lopez",
+                        "ce:indexed-name": "Fernandez-Lopez S."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Fernandez-Lopez",
+                    "@auid": "6602916385",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6602916385",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Fernandez-Lopez S."
+                },
+                {
+                    "ce:given-name": "Hui-Sun",
+                    "preferred-name": {
+                        "ce:given-name": "Hui Sun",
+                        "ce:initials": "H.S.",
+                        "ce:surname": "Kim",
+                        "ce:indexed-name": "Kim H."
+                    },
+                    "@seq": "2",
+                    "ce:initials": "H.-S.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Kim",
+                    "@auid": "7410128999",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7410128999",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Kim H.-S."
+                },
+                {
+                    "ce:given-name": "Ellen C.",
+                    "preferred-name": {
+                        "ce:given-name": "Ellen C.",
+                        "ce:initials": "E.C.",
+                        "ce:surname": "Choi",
+                        "ce:indexed-name": "Choi E."
+                    },
+                    "@seq": "3",
+                    "ce:initials": "E.C.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Choi",
+                    "@auid": "57192413677",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57192413677",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Choi E.C."
+                },
+                {
+                    "ce:given-name": "Mercedes",
+                    "preferred-name": {
+                        "ce:given-name": "Mercedes",
+                        "ce:initials": "M.",
+                        "ce:surname": "Delgado",
+                        "ce:indexed-name": "Delgado M."
+                    },
+                    "@seq": "4",
+                    "ce:initials": "M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Delgado",
+                    "@auid": "57197393397",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57197393397",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Delgado M."
+                },
+                {
+                    "ce:given-name": "Juan R.",
+                    "preferred-name": {
+                        "ce:given-name": "Juan R.",
+                        "ce:initials": "J.R.",
+                        "ce:surname": "Granja",
+                        "ce:indexed-name": "Granja J."
+                    },
+                    "@seq": "5",
+                    "ce:initials": "J.R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Granja",
+                    "@auid": "6604062098",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6604062098",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Granja J.R."
+                },
+                {
+                    "ce:given-name": "Alisher",
+                    "preferred-name": {
+                        "ce:given-name": "Alisher",
+                        "ce:initials": "A.",
+                        "ce:surname": "Khasanov",
+                        "ce:indexed-name": "Khasanov A."
+                    },
+                    "@seq": "6",
+                    "ce:initials": "A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Khasanov",
+                    "@auid": "7006453683",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7006453683",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Khasanov A."
+                },
+                {
+                    "ce:given-name": "Karin",
+                    "preferred-name": {
+                        "ce:given-name": "Karin",
+                        "ce:initials": "K.",
+                        "ce:surname": "Kraehenbuehl",
+                        "ce:indexed-name": "Kraehenbuehl K."
+                    },
+                    "@seq": "7",
+                    "ce:initials": "K.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Kraehenbuehl",
+                    "@auid": "57194476401",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57194476401",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Kraehenbuehl K."
+                },
+                {
+                    "ce:given-name": "Georgina",
+                    "preferred-name": {
+                        "ce:given-name": "Georgina",
+                        "ce:initials": "G.",
+                        "ce:surname": "Long",
+                        "ce:indexed-name": "Long G."
+                    },
+                    "@seq": "8",
+                    "ce:initials": "G.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Long",
+                    "@auid": "57202703641",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57202703641",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Long G."
+                },
+                {
+                    "ce:given-name": "Dana A.",
+                    "preferred-name": {
+                        "ce:given-name": "Dana A.",
+                        "ce:initials": "D.A.",
+                        "ce:surname": "Weinberger",
+                        "ce:indexed-name": "Weinberger D."
+                    },
+                    "@seq": "9",
+                    "ce:initials": "D.A.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Weinberger",
+                    "@auid": "7202213463",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/7202213463",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Weinberger D.A."
+                },
+                {
+                    "ce:given-name": "Keith M.",
+                    "preferred-name": {
+                        "ce:given-name": "Keith M.",
+                        "ce:initials": "K.M.",
+                        "ce:surname": "Wilcoxen",
+                        "ce:indexed-name": "Wilcoxen K."
+                    },
+                    "@seq": "10",
+                    "ce:initials": "K.M.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Wilcoxen",
+                    "@auid": "6603060242",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/6603060242",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Wilcoxen K.M."
+                },
+                {
+                    "ce:given-name": "M. Reza",
+                    "preferred-name": {
+                        "ce:given-name": "M. Reza",
+                        "ce:initials": "M.R.",
+                        "ce:surname": "Ghadiri",
+                        "ce:indexed-name": "Ghadiri M."
+                    },
+                    "@seq": "11",
+                    "ce:initials": "M.R.",
+                    "@_fa": "true",
+                    "affiliation": {
+                        "@id": "60007103",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60007103"
+                    },
+                    "ce:surname": "Ghadiri",
+                    "@auid": "55667351500",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/55667351500",
+                    "@force-array": "true",
+                    "ce:indexed-name": "Ghadiri M.R."
+                }
+            ]}
+        }
+    ],
+    "@total-references": "30",
+    "link": [
+        {
+            "@_fa": "true",
+            "@type": "application/json",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/eid/2-s2.0-0037070197?startref=1&refcount=40&apiKey=6e851892e3e3a23dc0a6f73c72ca9080&view=REF"
+        },
+        {
+            "@_fa": "true",
+            "@type": "application/json",
+            "@ref": "first",
+            "@href": "https://api.elsevier.com/content/abstract/eid/2-s2.0-0037070197?startref=1&refcount=40&apiKey=6e851892e3e3a23dc0a6f73c72ca9080&view=REF"
+        }
+    ]
+}}}

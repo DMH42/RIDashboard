@@ -13,10 +13,14 @@ const router = express.Router();
   //etc
   //Last date of update
 router.get('/departmentOverview/', (req, res) => {
+  Department.find()
+  .exec((err, department)=>{
+    res.status(200).json(department[0]);
+  })
   
 
-
   });
+
 
   //In the front end have some animation or something to indicate it is still updating.
 //Updates the department completly 

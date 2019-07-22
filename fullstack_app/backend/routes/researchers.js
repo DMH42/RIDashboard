@@ -2,15 +2,19 @@
 import response from '../response';
 import Researcher from '../models/researcher'
 import APIS from '../apiFunctions'
+import Publication from '../models/publication'
+
 
 const express = require('express');
 
 const router = express.Router();
 
 
+
 function saveResearcherToDB(data){
   // console.log(data[1]['author-retrieval-response'][0]);
   var searchData = data[0]['search-results'];
+  APIS.saveDocuments(searchData);
   var scMetricsData = data[1]['author-retrieval-response'][0]; 
   var scMetCoreData = scMetricsData['coredata']; 
   var scAuthorData = data[2]['author-retrieval-response'][0]['author-profile'];
@@ -37,6 +41,7 @@ function saveResearcherToDB(data){
   // console.log(researcherData);
   
   const researcher = new Researcher(researcherData);
+  //disabled for now, it works
   researcher.save()
   .then(()=>{
     console.log(researcher);
@@ -56,6 +61,27 @@ router.get('/getResearchers/', (req, res) => {
       res.status(200).json(response(researchers));
     })
   });
+
+  router.get('/getResearcher/', (req, res) => {
+    var id = req.query.ID;
+    Researcher.findOne({scopusID: id})
+    .sort({scopusHIndex: -1})
+    .exec((err, researcher) => {
+        Publication.find({scopusAuthorID: id})
+        .exec((er,publications) => {
+          //console.log("researcher " + researcher);
+          //console.log("Publications " + publications);
+
+          var resData = {
+            researcher,
+            publications
+          }
+          res.status(200).json(response(resData));
+
+        })
+    })
+  });
+
 
 //Updates the researcher completly 
   //Queries all of the connected databases/APIs

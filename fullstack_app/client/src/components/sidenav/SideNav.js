@@ -1,18 +1,37 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types'
 
 class SideNav extends Component {
     constructor(props) {
         super(props);
         this.state = {  };
     }
+    
+    static propTypes = {
+      changeSelected: PropTypes.func,
+
+}
+
+
+
+    onChangeSelected(event){
+      this.props.changeSelected(event.target.name);
+    }
+
     render() {
         return (
           <nav className="col-md-2 d-none d-md-block bg-light sidebar">
           <div className="sidebar-sticky">
+            <div className = "p-3"></div>
             <ul className="nav flex-column">
               <li className="nav-item">
-                <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
+                <button
+                id = "Department"  
+                onClick = {this.onChangeSelected.bind(this)}
+                className ="list-group-item list-group-item-action "
+                name = "Department"
+                >
+                  Department
                 </button>
                 {/* <a className="nav-link active" href="#">
                   <span data-feather="home"></span>
@@ -20,8 +39,13 @@ class SideNav extends Component {
                 </a> */}
               </li>
               <li className="nav-item">
-              <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
+              <button 
+              onClick = {this.onChangeSelected.bind(this)}
+              className ="list-group-item list-group-item-action"
+              name = "Researcher Search"
+
+              >
+                  Researcher Search
                 </button>
                 {/* <a className="nav-link" href="#">
                   <span data-feather="file"></span>
@@ -29,8 +53,11 @@ class SideNav extends Component {
                 </a> */}
               </li>
               <li className="nav-item">
-              <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
+              <button className ="list-group-item list-group-item-action"
+               onClick = {this.onChangeSelected.bind(this)}
+               name = "Journals"
+              >
+                  Journals
                 </button>
                 {/* <a className="nav-link" href="#">
                   <span data-feather="shopping-cart"></span>
@@ -120,6 +147,8 @@ class SideNav extends Component {
         );
     }
 }
+
+
 
 
 
