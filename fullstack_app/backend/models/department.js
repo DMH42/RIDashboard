@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 const department = new Schema({
   name: { type: 'String', required: true },
   topPublishingJournals: [[{ type: String }]],
-  topCitedJournals: [[{ type: String }]],
+  topCitedJournals: [[{ type: String }]], //TODO recalculate values with the new publications
   topFieldJournals: [{
     title: { type: String },
     coverageStartYear: { type: String },
@@ -24,7 +24,13 @@ const department = new Schema({
     citeScoreTracker: { type: String },
     citeScoreTrackerYear: { type: String },
   }],
+  averageStatistics: {
+    hIndex: {type: Number},
+    coauthorCount: {type: Number},
+    docCount: {type: Number},
+    citationCount: {type: Number},
 
+  },
   researchers: [{ type: String }],
   awardsCount: { type: 'String', required: false },
   sourceDict: {},

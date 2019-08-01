@@ -39,6 +39,34 @@ class SideNav extends Component {
                 </a> */}
               </li>
               <li className="nav-item">
+              <button className ="list-group-item list-group-item-action"
+              onClick = {this.onChangeSelected.bind(this)}
+              name = "Department Mentions"
+              >
+                  Department Mentions
+                </button>
+                {/* <a className="nav-link" href="#">
+                  <span data-feather="layers"></span>
+                  Lorem Ipsum
+                </a> */}
+              </li>
+              <li className="nav-item">
+              <button 
+              
+              className ="list-group-item list-group-item-action"
+              onClick = {this.onChangeSelected.bind(this)}
+              name = "ResearchersView"
+              
+              >
+                  Department Researchers
+                </button>
+                {/* <a className="nav-link" href="#">
+                  <span data-feather="users"></span>
+                  Lorem Ipsum
+                </a> */}
+              </li>
+
+              <li className="nav-item">
               <button 
               onClick = {this.onChangeSelected.bind(this)}
               className ="list-group-item list-group-item-action"
@@ -64,33 +92,22 @@ class SideNav extends Component {
                   Lorem Ipsum
                 </a> */}
               </li>
+
               <li className="nav-item">
-              <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
-                </button>
-                {/* <a className="nav-link" href="#">
-                  <span data-feather="users"></span>
-                  Lorem Ipsum
-                </a> */}
-              </li>
-              <li className="nav-item">
-              <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
+              <button className ="list-group-item list-group-item-action"
+              onClick = {this.onChangeSelected.bind(this)}
+              name = "Grants"
+              >
+                  Grants
                 </button>
                 {/* <a className="nav-link" href="#">
                   <span data-feather="bar-chart-2"></span>
                   Lorem Ipsum
                 </a> */}
               </li>
-              <li className="nav-item">
-              <button className ="list-group-item list-group-item-action">
-                  Lorem Ipsum
-                </button>
-                {/* <a className="nav-link" href="#">
-                  <span data-feather="layers"></span>
-                  Lorem Ipsum
-                </a> */}
-              </li>
+
+
+
             </ul>
 
             <h6 className="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">

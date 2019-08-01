@@ -39,6 +39,28 @@ const publication = new Schema({
     scopusDescription: {type: 'String'},
     scopusSourceID: {type: Number},
 
+    dimensionsIssn: [{type: 'String'}],
+    dimensionsId: {type: 'String'},
+    dimensionsAltmetric: {type: 'String'},
+    dimensionsAltmetricId: {type: 'String'},
+    dimensionsDOI: {type: 'String'},
+    dimensionsFieldCitationRatio: {type: 'String'},
+    dimensionsRelativeCitationRatio: {type: 'String'},
+    
+    dimensionsCitedCount: {type: 'String'},
+    dimensionsYear: {type: 'String'},
+    dimensionsVolume: {type: 'String'},
+    dimensionsIssue: {type: 'String'},
+    dimensionsTitle: {type: 'String'},
+    dimensionsGrantIDs: [{type: 'String'}],
+    dimensionsReferenceIDs: [{type: 'String'}],
+    dimensionsJournalID: {type: 'String'},
+    dimensionsJournalTitle: {type: 'String'},
+    dimensionsType: {type: 'String'}
+
+    
+
+
   });
 
       // title: { type: 'String', required: true },

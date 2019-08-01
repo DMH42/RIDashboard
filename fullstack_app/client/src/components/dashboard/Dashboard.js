@@ -3,9 +3,13 @@ import SideNav from "../sidenav/SideNav"
 import axios from 'axios'
 // import ResearcherBlock from '../researcherBlock/ResearcherBlock'
 import './Dashboard.css'
-import Department from '../department/Department'
-import Researcher from '../researcher/Researcher';
-import Journals from '../journals/Journals'
+import Department from '../views/department/Department'
+import Researcher from '../views/researcher/Researcher';
+import Journals from '../views/journals/Journals'
+import ResearchersView from '../views/researchersView/researchersView'
+import Grants from '../views/grants/Grants'
+import MentionsView from '../views/mentionsView/MentionsView'
+
 
 class Dashboard extends Component {
   constructor(props) {
@@ -15,6 +19,7 @@ class Dashboard extends Component {
       loading: false,
       response: null,
       researchers: [],
+      // selected: "Department"
       selected: "Department"
     };
 
@@ -84,6 +89,10 @@ class Dashboard extends Component {
             {this.state.selected === "Department" ? (<Department></Department>): (null) }
             {this.state.selected === "Researcher Search" ? (<Researcher></Researcher>): (null) }
             {this.state.selected === "Journals" ? (<Journals></Journals>): (null) }
+            {this.state.selected === "ResearchersView" ? (<ResearchersView></ResearchersView>): (null) }
+            {this.state.selected === "Grants" ? (<Grants></Grants>): (null) }
+            {this.state.selected === "Department Mentions" ? (<MentionsView></MentionsView>): (null) }
+
 
 
 

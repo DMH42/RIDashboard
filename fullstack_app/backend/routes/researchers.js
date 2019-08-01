@@ -1,8 +1,11 @@
 //import Researcher from '../models/researcher';
 import response from '../response';
 import Researcher from '../models/researcher'
-import APIS from '../apiFunctions'
+import elsevier from '../elsevierFunctions'
+import dimensions from '../dimensionsFunctions'
+
 import Publication from '../models/publication'
+import Grant from '../models/grant';
 
 
 const express = require('express');
@@ -14,7 +17,7 @@ const router = express.Router();
 function saveResearcherToDB(data){
   // console.log(data[1]['author-retrieval-response'][0]);
   var searchData = data[0]['search-results'];
-  APIS.saveDocuments(searchData);
+  elsevier.saveDocuments(searchData);
   var scMetricsData = data[1]['author-retrieval-response'][0]; 
   var scMetCoreData = scMetricsData['coredata']; 
   var scAuthorData = data[2]['author-retrieval-response'][0]['author-profile'];
@@ -67,39 +70,99 @@ router.get('/getResearchers/', (req, res) => {
     Researcher.findOne({scopusID: id})
     .sort({scopusHIndex: -1})
     .exec((err, researcher) => {
-        Publication.find({scopusAuthorID: id})
-        .exec((er,publications) => {
-          //console.log("researcher " + researcher);
-          //console.log("Publications " + publications);
+      var publications = null;
+      var grants = null;
 
+        var pubPromise = Publication.find({scopusAuthorID: id})
+        .then((pubs) => {
+          publications = pubs;
+        })
+
+        var grantPromise =  Grant.find({researcherID:researcher.dimensionsID})
+        // .exec((er,gr) => {
+        //   grants = gr;
+        // })
+        .then((grs)=>{
+          grants = grs
+        })
+        // console.log(grantPromise)
+
+        Promise.all([pubPromise, grantPromise]).then(vals => {
+
+          // console.log(grants);
           var resData = {
             researcher,
-            publications
-          }
-          res.status(200).json(response(resData));
+            publications,
+            grants
 
-        })
+          }
+          return res.status(200).json(response(resData));
+
+    
+        });
     })
   });
 
 
 //Updates the researcher completly 
-  //Queries all of the connected databases/APIs
+  //Queries all of the connected databases/elsevier
   //Won't do this too often, at most of one per day
-router.put('/updateResearcher/', (req, res) => {
-  APIS.elsevierAuthorSearch(req.body.params.ID).then(function (data) {
-    //console.log("sending back: "+  data);
-    // if(data['search-results']['opensearch:totalResults']==0){
-    //   res.status(200).json(response(data,"no search results"));
-    // }
-    // else {
-      saveResearcherToDB(data);
-      res.status(200).json(response(data));
+  router.post('/updateResearcher/', (req, res) => {
+    elsevier.elsevierAuthorSearch(req.body.params.ID).then(function (data) {
+      //console.log("sending back: "+  data);
+      // if(data['search-results']['opensearch:totalResults']==0){
+      //   res.status(200).json(response(data,"no search results"));
+      // }
+      // else {
+        saveResearcherToDB(data);
+        res.status(200).json(response(data));
+  
+      // }
+    });
+  
+    });
 
-    // }
-  });
 
-  });
+
+
+  router.post('/updateGrants/', (req, res) => {
+    // console.log(req.body);//get the dimensions ID
+    // console.log(req.body)//get the ID of the researcher in the db
+      // Researcher.findOneAndUpdate({_id:req.body.mongoID},
+      //   {
+      //     $set: {
+      //       dimensionsID: req.body.dimensionsID,
+      //     }
+      //   },
+      //    { new: true },
+      //   )
+      // .exec((err, researcher)=>{
+      //   console.log(researcher);
+      //   var grantCount = dimensions.getGrants(req.body.dimensionsID).then(() =>{
+      //     res.status(200).json(grantCount);
+      //   });
+      // });
+      dimensions.getGrants(req.body.dimensionsID).then( (grantData)=>{
+        console.log("grantDAta: " +  grantData);
+
+        Researcher.findOneAndUpdate({_id:req.body.mongoID},
+          {
+            $set: {
+              dimensionsID: req.body.dimensionsID,
+              grantCount: grantData.grantCount,
+              grantTotal: grantData.grantTotal,
+            }
+    
+          },
+           { new: true },
+          )
+        .exec((err, researcher)=>{
+          console.log(researcher);
+          res.status(200).json(grantData);
+        });
+      });
+    });
+
 
 // router.get('/recalculate/', (req, res) => {
 //     const data = {hello:"World"}
@@ -112,6 +175,5 @@ router.put('/updateResearcher/', (req, res) => {
     const resInfo = {hello:"World", Wrong: "paths"}
     res.status(200).json(response({resInfo}))
   });
-  
 
 module.exports = router;

@@ -26,31 +26,13 @@ export default class documentBlock extends Component {
 
         scopusCitedByCount: PropTypes.string,
         scopusDescription: PropTypes.string,
+
+        altmetric:PropTypes.string,
+        dimensionsRelativeCitationRatio:PropTypes.string,
+        dimensionsFieldCitationRatio:PropTypes.string,
+        dimensionsId:PropTypes.string,
 }
 
-/*
-
-scopusAuthorID: '56960692300',
-[0]   prismUrl:
-[0]    'https://api.elsevier.com/content/abstract/scopus_id/0012026263',
-[0]   scopusID: '0012026263',
-[0]   scopusEID: '2-s2.0-0012026263',
-[0]   title: 'Tracer diffusion in polyatomic liquids. II',
-[0]   prismPublicationName: 'The Journal of Chemical Physics',
-[0]   prismISSN: '00219606',
-[0]   prismDoi: '10.1063/1.442148',
-[0]   scopusCitedByCount: '74',
-[0]   prismVolume: '75',
-[0]   prismIssueId: '3',
-[0]   prismpageRange: '1422-1426',
-[0]   prismCoverDate: '1981-01-01',
-[0]   prismDisplayDate: '1981',
-[0]   prismAggType: 'Journal',
-[0]   scopusSubType: 'ar',
-[0]   scopusDescription: 'Article',
-[0]   scopusSourceID: 28134,
-
-*/
 
 
     render() {
@@ -85,6 +67,20 @@ scopusAuthorID: '56960692300',
                     {this.props.prismIssueId? <div><span className = "metricTitle">Issue: </span> 
                      <span className = "metric">{this.props.prismIssueId}</span></div>
                      : null }
+                    {this.props.altmetric?
+                    <div><span className="metricTitle">Altmetric: </span>
+                    <span className="metric">{this.props.altmetric}</span></div>:null   
+                    }
+                    
+
+                    {this.props.dimensionsRelativeCitationRatio?
+                    <div><span className="metricTitle">Relative Citation Ratio: </span>
+                    <span className="metric">{this.props.dimensionsRelativeCitationRatio}</span></div>:null   
+                    }
+                    {this.props.dimensionsFieldCitationRatio?
+                    <div><span className="metricTitle">Field Citation Ratio: </span>
+                    <span className="metric">{this.props.dimensionsFieldCitationRatio}</span></div>:null   
+                    }
                     
                     
 
@@ -106,10 +102,14 @@ scopusAuthorID: '56960692300',
                     <span className= "IDValue">{this.props.scopusID}</span></div>
                     <div><span className = "ID">Scopus EID: </span> 
                     <span className= "IDValue">{this.props.scopusEID}</span></div>
-                    <div><span className = "ID">DOI: </span> 
-                    <span className= "IDValue">{this.props.prismDoi}</span></div>
+                    {this.props.prismDoi?<div><span className = "ID">DOI: </span> 
+                    <span className= "IDValue">{this.props.prismDoi}</span></div>:null}
                     <div><span className = "ID">Scopus Source ID: </span> 
                     <span className= "IDValue">{this.props.scopusSourceID}</span></div>
+                    {this.props.dimensionsId?
+                    <div><span className="ID">Dimensions ID: </span>
+                    <span className="IDValue">{this.props.dimensionsId}</span></div>:null   
+                    }
 
                     </div>  
                     </div>           

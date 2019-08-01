@@ -1,6 +1,7 @@
 import Department from '../models/department';
 import response from '../response';
-import APIS from '../apiFunctions'
+import altmetrics from '../altmetricFunctions'
+import Grant from '../models/grant';
 const express = require('express');
 
 const router = express.Router();
@@ -20,6 +21,23 @@ router.get('/departmentOverview/', (req, res) => {
   
 
   });
+
+  router.get('/getAllGrants/', (req, res) => {
+    Grant.find()
+    .exec((err, grants)=>{
+      res.status(200).json(grants);
+    })
+    
+  
+    });
+
+    router.get('/getDepartmentMentions/', (req, res) => {
+      altmetrics.departmentMentions().then((data)=>{
+        return res.status(200).json(data);
+
+      })
+    })
+  
 
 
   //In the front end have some animation or something to indicate it is still updating.

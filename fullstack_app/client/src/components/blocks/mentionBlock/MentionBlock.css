@@ -1,0 +1,81 @@
+.block {
+    display: flex;
+    flex-direction: row;
+    background: white;
+    font-size: 1.1em;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+    width: 95%;
+    color: black;
+    background: white;
+    margin: 16px auto;
+    padding: 8px 16px;
+  }
+  
+  .rBlock {
+    display: flex;
+    align-self: auto;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .lBlock {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+
+  
+  .vertical-line {
+    width: 1px;
+    height: 100px;
+    background: grey;
+    margin: 0 8px;
+  }
+  
+  .rName {
+    font-style: italic; 
+    font-size: 1.5em;
+    color: #222;
+  }
+  
+  .detail {
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  .detailType {
+    font-size: 1.3em;
+    font-weight: bold;
+  }
+  
+  
+
+  
+  .visible {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .green {
+    background: green;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .middleBP {
+      display: none;
+    }
+    .rightBP, .leftBP {
+      width: 50%;
+    }
+    .comments {
+      display: none;
+    }
+  }

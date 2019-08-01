@@ -20,7 +20,7 @@
     height: 100%;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-end;
+    align-items: flex-start;
   }
   
   .leftBlock {
@@ -31,12 +31,13 @@
     justify-content: flex-start;
   }
   
-  .midBlock {
+  .midsBlock {
     display: flex;
     width: 33%;
     height: 100%;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
+    text-align: center;
   }
   
   .vertical-line {
@@ -47,7 +48,8 @@
   }
   
   .rName {
-    font-size: 1.5em;
+    font-style: italic; 
+    font-size: 1.3em;
     color: #222;
   }
   
@@ -70,8 +72,8 @@
   }
   
   .blockTitle {
-    font-weight: bold;
-    font-size: 1.2em;
+    /* font-weight: bold; */
+    font-size: 1.1em;
   }
   
 

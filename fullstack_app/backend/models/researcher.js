@@ -22,6 +22,10 @@ const researcher = new Schema({
     scopusCitedByCount: { type: 'Number', required: true, default: 0 },
 
     departments: [{ type: String }],
+    grantCount: {type: 'Number'},
+    grantTotal: {type: 'Number'},
+
+
 
   });
 

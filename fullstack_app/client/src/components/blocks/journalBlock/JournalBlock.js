@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import './JournalBlock.css';
 
-export default class researcher extends Component {
+export default class journalBlock extends Component {
 
     constructor(props){
         super(props);
