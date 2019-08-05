@@ -216,7 +216,7 @@ async function requestDimensions(query) {//async here
         const url = 'https://app.dimensions.ai/api/dsl.json';
         //This key changes often
         //TODO make this automatically generate the token
-        const key = "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwcmluY2lwYWxzIjpbImRzbCJdLCJzdWIiOiJkbXVub3oyQVBJQHUucm9jaGVzdGVyLmVkdSIsImlhdCI6MTU2NDUwMzExNCwiZXhwIjoxNTY0NTg5NTE0fQ.gjetQMtmFL4qeRRI5XrR36G1aPzMUAqlv_AqA6GWmQPafJU4yy1XHcDqfTQj2M4VxOj4mB74LcYuRG_bECrvOg"
+        const key = "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwcmluY2lwYWxzIjpbImRzbCJdLCJzdWIiOiJkbXVub3oyQVBJQHUucm9jaGVzdGVyLmVkdSIsImlhdCI6MTU2NTAyNTAzMywiZXhwIjoxNTY1MTExNDMzfQ.9PbOvX8sFvmWN9_GVylLWC59BHJV0pVW-zXMzyeWa8gDD9PP6Sfnmac0b5NFp9Vc2pRERaG4MEU-DSh3Uuyh8A"
         //   var url = baseurl + urlComplement;
         let config = {
             headers: {

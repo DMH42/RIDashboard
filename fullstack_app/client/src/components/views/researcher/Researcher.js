@@ -431,7 +431,7 @@ export default class researcher extends Component {
                   prismISSN={article.prismISSN}
                   prismDoi={article.prismDoi}
                   prismVolume={article.scoupsDocCount}
-                  scopusCitedByCount={article.prismIssueId}
+                  scopusCitedByCount={article.scopusCitedByCount}
                   prismIssueId={article.prismIssueId}
                   prismCoverDate={article.prismCoverDate}
                   scopusDescription={article.scopusDescription}

@@ -231,7 +231,7 @@ export default class department extends Component {
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     key={journal[0]}>{journal[0]}
-                    <span className="badge badge-primary badge-pill">{journal[1]}</span>
+                    <span id="pill" className="badge badge-primary badge-pill">{journal[1]}</span>
                   </li>
                 )}
               </ul>
@@ -250,7 +250,7 @@ export default class department extends Component {
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     key={journal['title']}>{journal['title']}
-                    <span className="badge badge-primary badge-pill">{journal['SJRScore']}</span>
+                    <span id="pill" className="badge badge-primary badge-pill">{journal['SJRScore']}</span>
                   </li>
                 )}
               </ul>
@@ -269,7 +269,7 @@ export default class department extends Component {
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     key={journal['title']}>{journal['title']}
-                    <span className="badge badge-primary badge-pill">{journal['SJRScore']}</span>
+                    <span id="pill" className="badge badge-primary badge-pill">{journal['SJRScore']}</span>
                   </li>
                 )}
               </ul>
@@ -287,25 +287,25 @@ export default class department extends Component {
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                    >HIndex
-                    <span className="badge badge-primary badge-pill">
+                    <span id="pill" className="badge badge-primary badge-pill">
                     {Math.round(this.state.department.averageStatistics['hIndex'])}</span>
                   </li>
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     >Document Count
-                    <span className="badge badge-primary badge-pill">
+                    <span id="pill" className="badge badge-primary badge-pill">
                     {Math.round(this.state.department.averageStatistics['docCount'])}</span>
                   </li>
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     >Coauthor Count
-                    <span className="badge badge-primary badge-pill">
+                    <span id="pill" className="badge badge-primary badge-pill">
                     {Math.round(this.state.department.averageStatistics['coauthorCount'])}</span>
                   </li>
                   <li
                     className="list-group-item d-flex justify-content-between align-items-center"
                     >Citation by Count
-                    <span className="badge badge-primary badge-pill">
+                    <span id="pill" className="badge badge-primary badge-pill">
                     {Math.round(this.state.department.averageStatistics['citationCount'])}</span>
                   </li>
               </ul>
@@ -322,9 +322,9 @@ export default class department extends Component {
     <li
       className="list-group-item d-flex justify-content-between align-items-center"
       key={grant['title']}>{grant['title']}
-            <span className="badge badge-primary badge-pill">{grant['start_year']}</span>
+            <span id="pill" className="badge badge-primary badge-pill">{grant['start_year']}</span>
 
-      <span className="badge badge-primary badge-pill">${grant['funding_usd']}</span>
+      <span id="pill" className="badge badge-primary badge-pill">${grant['funding_usd']}</span>
 
     </li>
   )}
